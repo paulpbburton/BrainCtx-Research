@@ -1,0 +1,35 @@
+{
+  "claim_class": [
+    "mechanism qualification",
+    "feasibility",
+    "regression",
+    "burden",
+    "descriptive comparison"
+  ],
+  "historical_reference": "retained naturalistic same-model-family sequence",
+  "live_condition": "BRAINCTX_FULL_GRAPH_BASELINE",
+  "end_to_end_completions": 0,
+  "active_launches_at_snapshot": 0,
+  "active_run_at_snapshot": null,
+  "failure_dispositions_retained": 24,
+  "first_successor_boundary_crossings_observed": 5,
+  "furthest_rung_2_state": "ALL_PLAN_ITEMS_COMPLETED_TERMINAL_VERIFICATION_FAILED",
+  "launch_attempts_observed": 25,
+  "live_status": "LIVE_ATTEMPTS_INCOMPLETE",
+  "maximum_consecutive_completed_rungs": 1,
+  "maximum_rung_started": 2,
+  "not_claimed": [
+    "causal efficacy",
+    "general performance improvement",
+    "run-to-run reliability",
+    "minimal role topology"
+  ],
+  "protocol_sha256": "1562a33a5b41e328073a87f2ba9fc881aacaeed2d1e1a5c94d89572cf1f77cc9",
+  "provider_call_count_status": "NOT_YET_RECONCILED",
+  "provider_calls": null,
+  "public_seal_version": 6,
+  "second_successor_boundary_crossings_observed": 0,
+  "study_id": "scene-root-core-01",
+  "terminal_controller_records_incomplete": 1,
+  "terminally_reconciled_launches": 25
+}
