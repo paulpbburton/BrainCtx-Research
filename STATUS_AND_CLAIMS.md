@@ -1220,7 +1220,7 @@ implementation and evidence record remain authoritative.
 - **Public evidence:** [balance and ledger](studies/task-loop/BALANCE_AND_LEDGER.md).
 - **Limit:** the sustained competition test has not run. Ledger, round, and
   ingest counts are private process custody, not quality measures.
-- **Status changes when:** sustained operation measures the balance or a
+- **Status changes when:** sustained operation measures the balance or an
   assurance-work round runs without a licensing specimen.
 
 ### C-060 — A scoped ruling transferred at its class boundary, numerics refused
@@ -1266,6 +1266,18 @@ implementation and evidence record remain authoritative.
   Instrument values and implementation details are private.
 - **Status changes when:** owner-controlled calibration yields a healthy
   control that admits a new registered read.
+- **Dated correction (2026-08-06):** the sentence "the measured unblock is an
+  owner-controlled physical calibration act" was not measured and is withdrawn.
+  A proven route for the same measurement already existed in the project's
+  production code, with retained outputs from earlier runs; each round had
+  constructed a new route instead of running it, and the operator generalised
+  those failures into an acquisition demand. The corrected claim is narrow:
+  several constructed routes failed their controls. The instrument-honesty
+  behaviour the rounds demonstrated stands and is why the error surfaced
+  cheaply; the conclusion drawn from it does not. The owed work is replication
+  of the existing route, not acquisition. This correction is itself the
+  program's own failure mode observed at the operator level: available
+  registered capability not reached, then a null published from its absence.
 
 ## Current program
 
