@@ -1,5 +1,7 @@
 # Counterfactual supervision mine: grounds before failure
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_RESULT_SUMMARY`
 >
 > **Status:** completed hindsight-labelled benchmark

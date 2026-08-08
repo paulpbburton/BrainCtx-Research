@@ -1,5 +1,7 @@
 # Status and claims
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Status:** current public claims ledger
 >
 > **As of:** 2026-08-06
@@ -752,10 +754,10 @@ implementation and evidence record remain authoritative.
 - **Status changes when:** the readiness build merges and a first calibration
   row exists, or an audit finds a deferred term operating unfrozen.
 
-### C-030 — Blinding survived distinct side-channel attacks
+### C-030 — Blinding survived distinct information-leak challenge cases
 
-- **Claim class:** DEMONSTRATED (instrument), adversarial-review evidence.
-- **What is claimed:** adversarial review found and closed several distinct
+- **Claim class:** DEMONSTRATED (instrument), independent-challenge evidence.
+- **What is claimed:** independent challenge review found and closed several distinct
   shape-level leak channels in the blinded packet compiler. A later round also
   restored deterministic selection after finding that a custody change had
   quietly affected it. Digests were independently recomputed against the code.
@@ -819,11 +821,11 @@ implementation and evidence record remain authoritative.
 
 ### C-034 — Apparatus self-demonstration and the blind that held
 
-- **Claim class:** DEMONSTRATED (custody halt), adversarial apparatus evidence.
+- **Claim class:** DEMONSTRATED (custody halt), independent challenge apparatus evidence.
 - **What is claimed:** the registered apparatus refused two invalid launches
   instead of manufacturing result rows. Review had audited measurement custody
   without first proving that the actor could execute, so an execution smoke
-  gate was added. The public finding is fail-closed custody and a review-scope
+  gate was added. The public finding is invalid-state refusal custody and a review-scope
   correction, not the host work.
 - **Public evidence:** [research program](RESEARCH_PROGRAM.md) and the private
   halt receipts mapped to this claim.
@@ -1031,7 +1033,7 @@ implementation and evidence record remain authoritative.
 - **Limit:** a bounded input subset and updater route establish custody and
   refusal, not semantic quality, optimal cadence, miss rate, or activation.
 - **Status changes when:** an audit invalidates cursor/receipt linkage,
-  isolation, a fail-closed seal, or review custody; or broader operation
+  isolation, an invalid-state refusal seal, or review custody; or broader operation
   measures missed material and downstream use.
 
 ### C-048 — The first graded exercise produced organic consultation and a scoped ruling
@@ -1182,7 +1184,7 @@ implementation and evidence record remain authoritative.
 - **What is claimed:** caretaker ingest now runs between tasks after review and
   learn-out, drains bounded backlog while retaining deferrals and gaps, and
   opens knowledge proposals through the standing dual-review lane. Knowledge
-  continued to flow while hardening ran beside it.
+  continued to flow while assurance work ran beside it.
 - **Public evidence:** [balance and ledger](studies/task-loop/BALANCE_AND_LEDGER.md)
   and [dated lab note](LAB_NOTE_20260805.md).
 - **Limit:** a short commissioning window establishes custody flow, not
@@ -1207,10 +1209,10 @@ implementation and evidence record remain authoritative.
 - **Status changes when:** the successor returns any valid disposition and is
   published without rewriting this null.
 
-### C-059 — The hardening balance held under live fire
+### C-059 — The assurance-work balance held during live work
 
 - **Claim class:** OBSERVED (short-window process evidence), descriptive.
-- **What is claimed:** under the owner's balance rule, every hardening round
+- **What is claimed:** under the owner's balance rule, every assurance-work round
   was licensed by an execution-confirmed defect while knowledge ingestion
   continued. Hypothetical shapes stayed typed edges. The flow ledger also
   caught attribution contamination instead of allowing one actor's work to
@@ -1219,7 +1221,7 @@ implementation and evidence record remain authoritative.
 - **Limit:** the sustained competition test has not run. Ledger, round, and
   ingest counts are private process custody, not quality measures.
 - **Status changes when:** sustained operation measures the balance or a
-  hardening round runs without a licensing specimen.
+  assurance-work round runs without a licensing specimen.
 
 ### C-060 — A scoped ruling transferred at its class boundary, numerics refused
 
@@ -1286,7 +1288,7 @@ run first, replay stays a distinct class, and full runs continue occasionally.
 ### The pivot executed, 2026-08-01
 
 The replay instrument ran under its registration, retained an uncollectible
-observable as unavailable, and preserved its fences. Judge panels attacked the
+observable as unavailable, and preserved its fences. Judge panels challenged the
 single-evaluator caveat and produced a bounded recalibration rather than a
 retrospective rewrite.
 
@@ -1314,7 +1316,7 @@ made the rulings inspectable while the evidence artifacts stayed private
 
 ### The loop closed, then did not activate, 2026-08-04→05
 
-The sequence moved from authority behavior to a support bridge, fail-closed
+The sequence moved from authority behavior to a support bridge, invalid-state refusal
 caretaker, dual-reviewed merge, and a scoped ruling. Mechanical closure
 worked. The next fresh actor did not consult the absorbed ruling, so activation
 remained a separate honest null (C-044 through C-050).
@@ -1324,7 +1326,7 @@ remained a separate honest null (C-044 through C-050).
 The task loop caught unverifiable evidence authored into its own input,
 independent review blocked both knowledge-store landings before correction,
 and discrepancy became a measurement trigger rather than prohibition.
-Hardening and ingest continued together. Later crossings retained a supervised
+Assurance work and ingest continued together. Later crossings retained a supervised
 activation, an unsupervised class transfer with numeric refusal, an unconfounded
 committee direction that did not beat its random null, and repeated refusal to
 read an unhealthy instrument (C-051 through C-062).

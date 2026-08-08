@@ -1,5 +1,7 @@
 # The announced support bridge
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_EXPLANATION`
 >
 > **Status:** implemented countermeasure design

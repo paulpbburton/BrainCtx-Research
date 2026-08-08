@@ -1,5 +1,7 @@
 # Publication policy
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Status:** active policy for repository authoring; release review pending
 >
 > **As of:** 2026-08-06
@@ -179,7 +181,7 @@ The owner directed (with the private-domain example generalized here):
 
 Operationally, public BrainCtx material centers evidence classes and their
 force limits, rulings and measurement triggers, consultation and transfer
-behavior, review blocks, fail-closed custody, ingest mechanics, balance, honest
+behavior, review blocks, invalid-state refusal custody, ingest mechanics, balance, honest
 nulls, and claim-ledger chronology. Domain measurement values, detailed item
 descriptions, input-family structure, artifact construction, and per-item
 inventories remain in private custody. Direction-level findings may be

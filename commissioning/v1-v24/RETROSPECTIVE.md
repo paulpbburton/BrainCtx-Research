@@ -1,5 +1,7 @@
 # Commissioning a failure-preserving long-horizon coding-agent harness
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Subtitle:** 24 live attempts and what they established
 >
 > **Artifact class:** `PUBLIC_EVIDENCE_PROJECTION`

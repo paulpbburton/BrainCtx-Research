@@ -1,5 +1,7 @@
 # Protocol summary
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_PROTOCOL_PROJECTION`
 >
 > **Status:** frozen private protocol; partial live attempts retained, plus two

@@ -1,5 +1,7 @@
 # Methods
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_EXPLANATION`
 >
 > **Status:** current public method projection
@@ -61,7 +63,7 @@ promoted.
 ### The adjudication axis: world contact versus process contact
 
 BrainCtx distinguishes actions that check the external object of work from
-actions that further harden an internal plan. Both can look diligent. The
+actions that further entrench an internal plan. Both can look diligent. The
 adjudication asks whether the next action reduces uncertainty about the world
 or merely increases confidence in an existing trajectory.
 
@@ -95,9 +97,9 @@ stasis expectations over legitimately changing artifacts, evidence-locator
 failure, near-duplicate vote multiplication, or prohibition written from an
 unmeasured synthesis.
 
-## 4. Cross-provider adversarial review
+## 4. Cross-provider independent challenge review
 
-Independent bindings can attack plans, implementations, results, and public
+Independent bindings can challenge plans, implementations, results, and public
 claims from different contexts. Review identity is recorded so disagreement
 can be attributed, but isolated observations never become provider rankings.
 
@@ -138,7 +140,7 @@ receipt exists. Invalid attempts seal without advance.
 
 ### Balance rule
 
-Hardening must be licensed by an execution-confirmed defect, while ingest must
+Assurance work must be licensed by an execution-confirmed defect, while ingest must
 continue. Hypothetical failures remain listed edges. A flow ledger records
 every shortcoming and closes it only with a fix locator.
 

@@ -1,5 +1,7 @@
 # Untestable wrong authority: public preregistration projection
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_PROTOCOL_PROJECTION`
 >
 > **Status:** registered before launch; completed result published separately
@@ -15,7 +17,7 @@
 ## Question
 
 The preceding study found that actors could reject wrong authority when a
-local test could settle the dispute. This study removed that defense and
+local test could settle the dispute. This study removed that fallback and
 asked whether a confident answer would displace the typed question that had
 previously appeared without an advisor.
 

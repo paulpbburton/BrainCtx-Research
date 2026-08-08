@@ -1,5 +1,7 @@
 # Support bridge: class transitions and live handling
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_RESULT_PROJECTION`
 >
 > **Status:** implemented and demonstrated live at integration scale

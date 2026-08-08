@@ -1,5 +1,7 @@
 # Predeclared limitations
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_PROTOCOL_PROJECTION`
 >
 > **Status:** frozen public limitation summary; incomplete live attempts, no

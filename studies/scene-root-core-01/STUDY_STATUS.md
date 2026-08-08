@@ -1,5 +1,7 @@
 # Study status
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_PROTOCOL_PROJECTION`
 >
 > **Status:** `LIVE_SUPERVISED_OBSERVATIONS_RETAINED`

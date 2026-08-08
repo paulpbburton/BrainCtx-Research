@@ -1,5 +1,7 @@
 # Research program
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_EXPLANATION`
 >
 > **Status:** active program framing
@@ -19,7 +21,7 @@ situated knowledge, uncertainty, review, and learning cross context
 boundaries.
 
 The program focuses on a recurring pattern: a strong prior wins over current
-instructions or evidence, the actor hardens before measuring, and the later
+instructions or evidence, the actor commits before measuring, and the later
 correction fails to reach fresh work.
 
 ## The two primary studies
@@ -117,7 +119,7 @@ research narrative.
 
 - How should conflicts survive distillation without becoming prohibition?
 - Which failures seal ingest, and which remain non-authoritative observations?
-- How can hardening proceed without preventing knowledge flow?
+- How can assurance work proceed without preventing knowledge flow?
 
 ## Current sequence
 
@@ -199,4 +201,4 @@ framework behavior that made domain work possible and kept its claims honest.
 - evidence that the support or ingest classes do not preserve force limits;
 - a review process that cannot distinguish apparatus failure from task
   failure;
-- or sustained hardening that blocks knowledge flow.
+- or sustained assurance work that blocks knowledge flow.

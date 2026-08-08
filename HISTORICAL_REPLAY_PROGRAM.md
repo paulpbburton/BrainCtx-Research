@@ -1,5 +1,7 @@
 # The historical-replay program — the archive as a pre-played supervision ground
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Status:** adopted program direction (private reconciliation of record,
 > 2026-08-02); no historical cohort has run
 >

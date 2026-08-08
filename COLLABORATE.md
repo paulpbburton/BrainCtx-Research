@@ -1,5 +1,7 @@
 # Collaborate
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Status:** collaboration brief in preparation
 >
 > **As of:** 2026-07-28

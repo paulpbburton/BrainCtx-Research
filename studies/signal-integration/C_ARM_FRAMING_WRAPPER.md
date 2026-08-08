@@ -1,5 +1,7 @@
 # Advisor-framing treatment wrapper
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_EVIDENCE_PROJECTION`
 >
 > **Status:** complete treatment text, projected in full

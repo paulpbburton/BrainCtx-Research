@@ -1,5 +1,7 @@
 # Knowledge-tier merge policy
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_EXPLANATION`
 >
 > **Status:** standing owner-authorized governance design

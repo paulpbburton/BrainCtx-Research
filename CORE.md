@@ -1,5 +1,7 @@
 # The core
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_EXPLANATION`
 >
 > **Status:** narrative entry point
@@ -13,7 +15,7 @@
 > outcomes, efficacy, provider comparison, or production assurance.
 
 BrainCtx studies the agent that is confidently wrong: it carries a strong
-prior into work, hardens before measuring, treats advice as authority, and
+prior into work, commits before measuring, treats advice as authority, and
 fails to carry a correction into the next context.
 
 The program's response is a measurement and governance framework:
@@ -23,7 +25,7 @@ natural work retained
 → trajectory issues detected
 → independent review kept advisory until earned
 → questions and rulings preserved by class
-→ learning admitted through fail-closed custody
+→ learning admitted through invalid-state refusal custody
 → activation measured in a fresh context
 ```
 
@@ -101,7 +103,7 @@ only a scoped owner ruling closes. The caretaker advances knowledge state only
 after receipt-linked, disposition-consistent, dual-reviewed ingest. Governance
 changes remain manual.
 
-Maturity: typed support, fail-closed ingest, and narrow knowledge-tier review
+Maturity: typed support, invalid-state refusal ingest, and narrow knowledge-tier review
 are demonstrated; semantic quality and optimal cadence are not.
 
 ## 5. Activation is a separate observable
@@ -120,9 +122,9 @@ after later positive observations.
 
 ## 6. The balance rule
 
-Two symmetric failures threaten the loop: rigor theater that suppresses
-observations without measuring, and hardening that prevents knowledge from
-flowing. A hardening round therefore requires a real execution-confirmed
+Two symmetric failures distort the loop: rigor theater that suppresses
+observations without measuring, and assurance work that prevents knowledge from
+flowing. An assurance-work round therefore requires a real execution-confirmed
 defect, while ingestion must continue beside it. Every shortcoming enters a
 ledger and closes only with a fix locator.
 

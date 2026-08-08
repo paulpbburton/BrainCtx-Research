@@ -1,141 +1,95 @@
 # BrainCtx Research
 
-> **Status:** public research documentation in preparation
->
-> **As of:** 2026-08-06
->
-> **Authority:** curated public projection. The private implementation,
-> evidence record, and measurement custody remain authoritative.
->
-> **Claim boundary:** BrainCtx knowledge, governance, and measurement
-> framework; not the domain-specific outcomes produced inside it.
+> **Status:** current public research surface
+> **As of:** 2026-08-08
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
 
-BrainCtx studies the control and evaluation layer for long-horizon coding
-agents: how situated knowledge reaches a decision, how independent review
-constrains it, and how useful findings survive context boundaries without
-acquiring more authority than their evidence supports.
+BrainCtx studies a practical gap in long-horizon AI work: knowledge can exist,
+be delivered, and even be cited without changing what an agent actually does.
+The program measures the full path from available knowledge and visible
+uncertainty to consultation, decisions, artifacts, evaluated outcomes, and
+what is carried into later work. It asks when agents seek missing knowledge on
+their own, when a team changes that behavior, and when supervision should
+bring the question to them. (Anchor: `THESIS-01`)
 
-**If you read one document, read [the core](CORE.md).**
+## Where the program is now
 
-## The two primary studies
+The public record is no longer only an account of system construction. A
+29-primary-source survey identified seven carefully scoped measurement
+absences. A gap registry now ties each absence to a completed study, a built
+study, an in-design study, or an external dependency. (Anchors: `GAPS-01`,
+`REGISTRY-01`)
 
-1. **Early-catchable trajectory drift** — can a trajectory going wrong be
-   detected early and precisely enough to justify a bounded redirect?
-2. **Situated knowledge in flight** — is non-public knowledge consulted,
-   changed, curated back, recovered, and activated in later work?
+The first controlled four-run study is complete. Its corrected primary score
+was null in both conditions. The knowledge condition produced the only
+descriptive registrations, all four agents made honest handoffs on an
+unsupported subtask, and the most useful recorded technique went unused.
+That study established the program's central distinction: presence is not
+activation. (Anchor: `ABL03-01`)
 
-The runtime, task domains, and retained artifacts are instruments for these
-questions. Their detailed outcomes are not the public story.
+The powered follow-on is built, fixture-tested, pinned, and held unrun for
+supported execution. It crosses two knowledge-store states with three help
+levels, 32 replicates per condition, for 192 runs. Its projected inference
+cost is $205–$626; the larger constraints are serialized time, provider
+throughput, generalization, and replication. (Anchors: `ABL04-POWER-01`,
+`BUDGET-01`)
 
-## What the public record centers
+A four-run demonstration of the store-plus-live-team condition has also run.
+The team was announced and available, but the agents made zero voluntary asks
+across all three seats. They recorded relevant uncertainty in their own work
+while the seats went unused. That null did not weaken the program; it
+identified the next experimental variable. Availability alone was not enough.
+(Anchor: `ABL04-DEMO-01`)
 
-### Evidence class limits
+The next design, ablation05, is in progress. It preregisters a seven-rung
+expectation ladder from simple availability through explicit expectation,
+observed collaboration, graded collaboration, coworker feedback, in-run
+supervisor initiation, and comparison with an expert. It also designs
+automatic consultation from uncertainty already written by the agent. No
+ablation05 agent run has started. (Anchor: `ABL05-01`)
 
-BrainCtx keeps `OWNER_RULING`, `RESEARCH_FINDING`, `EXPERT_OPINION`, and
-`SIGNAL/MEASUREMENT` distinct. Advisory evidence may inform a decision; it
-cannot close an owner-scoped question. Confidence never upgrades a class.
+## Method discipline
 
-### Discrepancy triggers measurement
+- Questions, treatment wording, stopping rules, scoring, and analyses are
+  written and pinned before outcomes are observed.
+- Evaluation is executable where the task permits independently constructed
+  ground truth.
+- A sealed result is never overwritten. If an instrument is found to be wrong,
+  the original and corrected layers are retained together.
+- Positive, null, negative, mixed, unavailable, and failed results have equal
+  standing.
+- Availability, delivery, use, decision effect, artifact effect, and evaluated
+  outcome remain separate measurements.
+- First-of-kind language is limited to the declared literature search and the
+  exact instrument the program is positioned to produce. (Anchors:
+  `METHOD-01`, `POSITION-01`)
 
-When an owner-specified state conflicts with another credible source, the
-knowledge store retains both. The conflict becomes a registered measurement,
-not an unmeasured prohibition. A later measurement may support either side;
-until then, neither inherits force it has not earned.
+## Timeline
 
-### Questions survive answers
-
-The support bridge records a typed concern before seeking an answer. Replies
-append evidence and preserve disagreement. Only a scoped owner ruling can
-close the concern; ordinary research and opinion leave it advised or open.
-
-### Ingest fails closed
-
-The one-shot caretaker advances a cursor only after a receipt-connected,
-disposition-consistent, independently reviewed proposal. Invalid paths,
-contradictory diffs, dirty custody, or unsupported locators seal the attempt
-without advancing knowledge state. Governance remains manual.
-
-### Activation is measured separately
-
-Availability is not delivery; delivery is not use; use is not outcome. The
-record contains an honest fresh-actor null after mechanical absorption, a
-later supervised activation, and an unsupervised class transfer that refused
-the original numerics. Those behaviors remain separately typed and causes are
-unattributed.
-
-### Review can block the framework itself
-
-Independent rounds have blocked one-sided summaries, over-broad knowledge
-claims, invalid locator grammars, weak solo adjudicators, unhealthy measuring
-instruments, and changes that could not prove their own custody. A blocked or
-unavailable measurement remains a legitimate disposition.
-
-### Flow and rigor are balanced
-
-Hardening must be licensed by an execution-confirmed defect, while knowledge
-ingest must continue. Hypothetical risks remain listed edges. A numbered flow
-ledger closes items only with fix locators, making both obstruction and
-under-protection visible.
-
-## Current status
-
-The private harness has demonstrated planning, independent terminal review,
-bounded correction, knowledge-store separation, fresh successor release,
-typed support, controlled ingest, and several forms of observation and replay.
-It has not established general coding improvement, reliable activation,
-minimal architecture, provider superiority, or production readiness.
-
-Natural observations, replay arms, hindsight-labelled supervision rows,
-owner rulings, and instrument-health rounds are separate evidence classes.
-They are never pooled merely because they point in the same direction.
-
-All domain measurements, task bodies, specimen detail, signal structure,
-per-item inventories, review material, raw traces, and path-bearing receipts
-remain in private custody.
+| Date | Program frontier |
+|---|---|
+| July 2026 | Commissioning established retained long-horizon execution, independent evaluation, correction, and knowledge recovery while leaving broad benefit unproved. |
+| 2026-08-07 | The 29-source survey and seven-gap registry landed; the five-stage serviced-ask retrospective covered 29 retained exchanges plus two declared supplements. |
+| 2026-08-07 | Ablation03 closed with a two-layer result: null corrected primary score, descriptive direction in the knowledge condition, universal honest handoffs, and a measured activation miss. |
+| 2026-08-07 | The ablation04 powered 2×3 apparatus was built and pinned; the public budget was derived. |
+| 2026-08-08 | The four-run live-team demo completed with zero voluntary asks. |
+| 2026-08-08 | Ablation05 entered design around the expectation ladder and system-initiated consultation. |
 
 ## Start here
 
-- [The core](CORE.md) — the framework in one narrative
-- [Current claims and limits](STATUS_AND_CLAIMS.md) — every C-id and its force
-- [Research program](RESEARCH_PROGRAM.md) — mission, questions, and sequence
-- [Methods](METHODOLOGY.md) — observation, supervision, review, and replay
-- [Architecture and maturity](ARCHITECTURE.md)
+- [Gap targets](GAP_TARGETS.md)
+- [Experiment registry](EXPERIMENT_REGISTRY.md)
+- [The live-team demo story](DEMO_STORY.md)
+- [What funding enables](FUNDING.md)
+- [Private evidence anchors](PRIVATE_ANCHORS.md)
+- [Current detailed claims](STATUS_AND_CLAIMS.md)
+- [Methods](METHODOLOGY.md)
 - [Publication policy](PUBLICATION_POLICY.md)
-- [Changelog](CHANGELOG.md)
-- [The loop closed, then did not activate](LAB_NOTE_20260804_05.md)
-- [The loop became a framework](LAB_NOTE_20260805.md)
 
-Study projections:
+## Boundary
 
-- [scene-root evidence classes](studies/scene-root-core-01/README.md)
-- [reference governance](studies/signal-integration/REFERENCE_SET_RATIFICATION.md)
-- [authority under testable uncertainty](studies/signal-integration/authority-uncertainty/RESULT.md)
-- [untestable authority and question custody](studies/signal-integration/untestable-authority/RESULT.md)
-- [support bridge](studies/support-bridge/DESIGN.md)
-- [one-shot caretaker](studies/brain-caretaker/RESULT.md)
-- [fresh-actor activation null](studies/knowledge-activation/FRESH_ACTOR_NULL.md)
-- [class-boundary transfer](studies/knowledge-activation/TRANSFER_CROSSING.md)
-- [balance rule](studies/task-loop/BALANCE_AND_LEDGER.md)
-
-## Claim chain
-
-```text
-knowledge available
-→ knowledge consulted
-→ evidence class preserved
-→ decision changed or explicitly did not change
-→ artifact changed or explicitly did not change
-→ evaluated outcome changed or remained unmeasured
-→ learning admitted, refused, or left open
-```
-
-BrainCtx preserves positive, negative, null, mixed, refused, unavailable,
-contaminated, and failed dispositions at each boundary.
-
-## Private boundary
-
-Public documents are purpose-written projections. They may characterize a
-direction, explain a governance behavior, or point to a claim, but private
-custody remains authoritative for every measurement and domain outcome.
-Public text never becomes runtime input or a replacement for the private
-record.
+The task domain is described only as a specialized private visual domain
+(egocentric video) absent from public training corpora. This repository
+contains no runtime, raw corpus, raw transcript, seat prompt, private brain
+content, run root, host artifact, title name, or media. Public pages are
+purpose-written research projections and never inputs to a BrainCtx study.

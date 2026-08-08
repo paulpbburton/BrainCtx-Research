@@ -1,5 +1,7 @@
 # The fusion round: a mixed result held in both arms
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_RESULT_SUMMARY`
 >
 > **Status:** completed sealed round (`VALID_COMPLETE_MEASUREMENT`)

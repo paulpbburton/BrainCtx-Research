@@ -1,5 +1,7 @@
 # Issue #197: one-shot brain caretaker
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_RESULT_PROJECTION`
 >
 > **Status:** implemented MVP with retained acceptance and failure record
@@ -9,7 +11,7 @@
 > **Authority:** public mechanism projection. Private source, cursors, delta
 > packets, traces, seals, review receipts, and merge ledger remain authoritative.
 >
-> **Claim boundary:** ingest, fail-closed custody, and governance; not
+> **Claim boundary:** ingest, invalid-state refusal custody, and governance; not
 > knowledge quality, cadence, downstream benefit, or host inventory.
 
 ## One bounded custody path
@@ -39,7 +41,7 @@ cursor refusal, and fresh index-to-owner recovery. A missing route surfaced
 during recovery and was repaired before the exercise passed. These tests
 establish custody mechanics and findability, not semantic quality or later use.
 
-## Fail-closed seals are part of the result
+## Invalid-state refusal seals are part of the result
 
 A follow-on event-triggered tick refused several attempts before one valid
 proposal. The seals caught:

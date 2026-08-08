@@ -1,5 +1,7 @@
 # Cross-source stability of the ratified reference
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_RESULT_PROJECTION`
 >
 > **Status:** owner-ratified descriptive probe

@@ -1,5 +1,7 @@
 # About BrainCtx Research
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Status:** public project description in preparation
 >
 > **As of:** 2026-08-06
@@ -25,7 +27,7 @@ The public project emphasizes:
 - discrepancies as measurement triggers rather than reasons to suppress one
   source;
 - typed questions that survive advisory answers;
-- fail-closed ingest and review before knowledge-state advancement;
+- invalid-state refusal ingest and review before knowledge-state advancement;
 - natural observation, replay, and hindsight evidence kept separate;
 - honest null, refused, unavailable, and failed dispositions; and
 - a claim ledger that preserves every claim's scope and update history.

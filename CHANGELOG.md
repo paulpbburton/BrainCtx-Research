@@ -1,8 +1,23 @@
 # Changelog
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Convention:** append new dated entries at the top. Claim IDs are stable;
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
+
+## 2026-08-08 — Gap-targeting program surface
+
+- Reframed the repository front page around the 29-source survey, seven scoped
+  field absences, and the program's current fill vehicles.
+- Added the public gap map, experiment registry, live-team demo readout,
+  funding brief, and private-evidence anchor ledger.
+- Recorded the powered ablation04 study as built and unrun for budget, the
+  four-run live-team demonstration as a zero-ask null, and ablation05 as an
+  in-design expectation-and-cascade study.
+- Added a repository self-check for publication boundaries, plain research
+  language, required authority notes, evidence-anchor joins, JSON, local
+  links, media, local commits, and the rendered status summary.
 
 ## 2026-08-06 — Pass 12c: sealed treatment bytes withheld, pins retained
 
@@ -21,7 +36,7 @@ the study's registered status is unchanged.
   construction detail, and per-item inventory counts.
 - Recentered result projections on evidence-class force limits, scoped
   rulings, discrepancy-triggered measurement, consultation/activation/transfer
-  behavior, review blocks, fail-closed seals, ingest custody, the balance rule,
+  behavior, review blocks, invalid-state refusal seals, ingest custody, the balance rule,
   and honest null dispositions.
 - Claims retain every C-id, their ledger fields, dated updates, and epistemic
   content. Host-outcome values were withdrawn to authoritative private custody
@@ -56,7 +71,7 @@ private under the Pass 12 boundary.
   knowledge while retaining deferrals and gaps.
 - An honest unavailable measurement redirected its successor rather than
   inventing a comparison domain.
-- The hardening balance held during commissioning: real defects licensed
+- The assurance work balance held during commissioning: real defects licensed
   rounds while knowledge continued to flow.
 
 ## 2026-08-05 — Pass 9: the measured middle, a first activation, and the framework
@@ -72,7 +87,7 @@ private under the Pass 12 boundary.
   without claiming prevention.
 - A paired supervisor stayed quiet on grounds while the actor independently
   consulted and applied a ruling.
-- The minimal task framework ran from consultation through fail-closed ingest
+- The minimal task framework ran from consultation through invalid-state refusal ingest
   and independent review.
 
 All domain metrics and inventories from this pass are private under Pass 12.

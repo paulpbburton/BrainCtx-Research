@@ -1,5 +1,7 @@
 # Authority under testable uncertainty: evidence beat the frame
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_RESULT_PROJECTION`
 >
 > **Status:** completed descriptive study

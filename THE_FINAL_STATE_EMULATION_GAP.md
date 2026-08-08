@@ -1,5 +1,7 @@
 # The final-state emulation gap — and its bounds
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Status:** conceptual direction (owner framing of record, 2026-08-02);
 > generates registrable hypotheses, authorizes no experiment
 >
@@ -16,8 +18,8 @@ Coding agents are commonly trained and evaluated on artifacts in which the
 social production process is far less visible than the final output — merged
 commits, released libraries, accepted answers. Each such artifact is a
 **social fold**: drafted by someone licensed to be incomplete, reviewed by
-someone else paid to doubt it, hardened only after the thing proved worth
-hardening. No single human produced it in one pass.
+someone else paid to doubt it, strengthened only after the thing proved worth
+strengthening. No single human produced it in one pass.
 
 An agent therefore sits in the **first-drafter's position while holding the
 folded product's standard**. The uncertainty it behaviorally expresses is
@@ -34,9 +36,9 @@ one context can absorb, the self-imposed review is insurmountable by
 construction. Observed in the field as self-imposed validation overwhelming
 progress and requiring operator intervention. The pathology is a **missing division of labor,
 expressed as an anxiety-shaped engineering trajectory** — a behavioral
-pattern, with no claim about inner states. A final piece: *"worth hardening"
+pattern, with no claim about inner states. A final piece: *"worth strengthening"
 is a valuation requiring the built goal to exist first*; an agent that cannot
-price worth-hardening prices every path at maximum, a valuation failure
+price “worth strengthening” prices every path at maximum, a valuation failure
 presenting as diligence.
 
 The bounded formulation of the training-data claim: highly selected exemplars
@@ -100,7 +102,7 @@ not correctness.
 Explicitly not adopted with the framing: no claim about any provider's
 training mixture; no watcher-as-colleague authority or automatic
 intervention; no reward for compliance, hand-raising, or deferral; no
-requirement to harden a path before its value can be observed; and no claim
+requirement to stabilize a path before its value can be observed; and no claim
 that any reasoning-effort setting causes or prevents overengineering — model
 and effort are covariates to record, not explanations to assert.
 

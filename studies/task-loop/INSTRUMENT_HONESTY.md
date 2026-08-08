@@ -1,5 +1,7 @@
 # Instrument honesty: repeated refusal at an unhealthy seam
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_RESULT_SUMMARY`
 >
 > **Status:** completed instrument-health arc
@@ -9,7 +11,7 @@
 > **Authority:** private control rounds, seals, and measurement distributions
 > remain authoritative.
 >
-> **Claim boundary:** fail-closed instrument behavior; no domain measurement
+> **Claim boundary:** invalid-state refusal instrument behavior; no domain measurement
 > or exclusion claim.
 
 Repeated attempts to earn a domain observable refused to report it when the

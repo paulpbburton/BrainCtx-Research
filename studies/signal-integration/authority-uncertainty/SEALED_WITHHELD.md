@@ -1,5 +1,7 @@
 # Sealed materials withheld pre-publication
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Status:** the preregistration and treatment wrappers for this study were
 > withdrawn from the public tree before first publication, under the
 > publication-policy boundary (the research topic is public; domain

@@ -1,5 +1,7 @@
 # Glossary
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Status:** public explanation
 >
 > **As of:** 2026-08-04
@@ -75,7 +77,7 @@ artifacts and knowledge may still be delivered deliberately.
 
 ## Commissioning
 
-Live work used to establish and harden the research instrument and its
+Live work used to establish and validate the research instrument and its
 interfaces. Commissioning evidence can demonstrate mechanisms and failures; it
 is not automatically an efficacy population.
 
@@ -236,7 +238,7 @@ it cannot demonstrate that supervision changes work.
 ## Social fold
 
 *Added 2026-08-02.* A final artifact that folds together drafting, review,
-correction, and hardening by different people, leaving product more visible
+correction, and assurance work by different people, leaving product more visible
 than process.
 
 ## Staged world-contact ladder
@@ -306,6 +308,6 @@ concern. Compliance with advice is not correctness and is measured separately.
 *Added 2026-07-31.* The axis on which an unasked-for inserted step is
 adjudicated. A **world-contact** step verifies current external reality: it is
 cheap, it produces evidence, and it brings the work closer to contact with its
-outcome. A **process-contact** step only hardens, certifies, or gates: it is
+outcome. A **process-contact** step only reinforces, certifies, or gates: it is
 self-referential and defers that contact. The first is not drift even though
 nobody asked for it; the second is drift even though it looks like diligence.

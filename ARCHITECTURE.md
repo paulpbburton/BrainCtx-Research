@@ -1,5 +1,7 @@
 # Architecture and maturity
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Status:** public explanation of the research instrument
 >
 > **As of:** 2026-08-06
@@ -118,7 +120,7 @@ custody disagreement. Governance remains manual.
 | Fork replay | **Verified for a bounded seat class and commissioned** |
 | Judge-panel calibration | **Demonstrated on retained packets only** |
 | Typed support bridge | **Demonstrated at integration scale** |
-| Fail-closed caretaker and knowledge-tier review | **Demonstrated; governance manual** |
+| Invalid-state refusal caretaker and knowledge-tier review | **Demonstrated; governance manual** |
 | Reliable knowledge activation | **Unknown; positive and null observations retained** |
 | General coding improvement | **Not supported** |
 

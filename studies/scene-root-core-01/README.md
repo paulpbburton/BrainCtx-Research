@@ -1,5 +1,7 @@
 # scene-root-core-01
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_PROTOCOL_PROJECTION`
 >
 > **Status:** retained bounded observations and preregistered replay evidence;

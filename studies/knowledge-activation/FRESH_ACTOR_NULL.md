@@ -1,5 +1,7 @@
 # Fresh-actor re-cross: absorption succeeded; activation did not
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_RESULT_PROJECTION`
 >
 > **Status:** complete null on the registered reach mechanism
@@ -41,7 +43,7 @@ unattributed. Its measurements and domain description are held privately.
 
 The reach test depended on a spontaneous encounter with the relevant decision
 point. It therefore conflated knowledge not reaching the actor with the
-trigger never occurring. The executor also hardened search policy during the
+trigger never occurring. The executor also strengthened search policy during the
 study without preregistration. Both defects remain part of the result.
 
 ## Finding and limits

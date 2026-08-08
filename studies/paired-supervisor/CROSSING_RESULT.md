@@ -1,5 +1,7 @@
 # The first paired-supervisor crossing: correct quiet and observed activation
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_RESULT_SUMMARY`
 >
 > **Status:** completed single crossing (`PASS`, final verification sealed)

@@ -1,5 +1,7 @@
 # Bounded observations
 
+> **Authority note:** The private record is authoritative; this repository is the legible surface.
+
 > **Artifact class:** `PUBLIC_EVIDENCE_PROJECTION`
 >
 > **Status:** retained natural observations; descriptive only
