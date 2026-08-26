@@ -1,5 +1,12 @@
 # Methods
 
+> **Era note (2026-08-26):** this page predates the program's pivot from
+> staged ablations to the attachable observe-and-deliver instrument. Its
+> content remains accurate for the era it describes; the current surface is
+> [README.md](README.md) → [STATUS_AND_CLAIMS.md](STATUS_AND_CLAIMS.md),
+> and ablation-era records now live under [archive/](archive/README.md).
+
+
 > **Authority note:** The private record is authoritative; this repository is the legible surface.
 
 > **Artifact class:** `PUBLIC_EXPLANATION`

@@ -6,6 +6,32 @@
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
 
+## 2026-08-26 — Current research surface (v0.2 restructure)
+
+- Fresh top-level restructure onto the current era: the program pivoted
+  from staged ablations to an attachable observe-and-deliver instrument
+  operating on natural work. The front door (README, CORE,
+  RESEARCH_HIGHLIGHTS, STATUS_AND_CLAIMS) now leads with the connected
+  activation chain and the instrument.
+- Ablation-era material moved verbatim under `archive/` with a historical
+  banner; nothing rewritten, no history rewritten, all anchors retained.
+- New pages: RESEARCH_HIGHLIGHTS, NATURAL_WORK (workloads by type of
+  work — private workloads are never named), RELATED_SYSTEMS (overlap,
+  adopted/rejected concepts, explicit non-novelty; citation audit pending
+  release review), and `findings/` (arm-and-observe, review-mined failure
+  modes, lessons-become-checks, nulls-and-corrections).
+- STATUS_AND_CLAIMS superseded by the current-era claim ladder; the
+  ablation-era ledger retained verbatim in the archive. The 2026-08-26
+  advisory ceilings — general causal benefit UNPROVEN, long-run operator
+  burden UNMEASURED, production readiness NOT CLAIMED — are carried with
+  the ratification.
+- PRIVATE_ANCHORS extended with the current-era anchor rows; ablation-era
+  rows unchanged.
+- Release status: authored and committed locally; publication (remote
+  push/release) remains an explicit owner decision per PUBLICATION_POLICY,
+  with the citation audit and clean-clone review still ahead of any
+  release tag.
+
 ## 2026-08-08 — Gap-targeting program surface
 
 - Reframed the repository front page around the 29-source survey, seven scoped

@@ -1,95 +1,104 @@
 # BrainCtx Research
 
 > **Status:** current public research surface
-> **As of:** 2026-08-08
+> **As of:** 2026-08-26
 > **Authority note:** The private record is authoritative; this repository is the legible surface.
 
-BrainCtx studies a practical gap in long-horizon AI work: knowledge can exist,
-be delivered, and even be cited without changing what an agent actually does.
-The program measures the full path from available knowledge and visible
-uncertainty to consultation, decisions, artifacts, evaluated outcomes, and
-what is carried into later work. It asks when agents seek missing knowledge on
-their own, when a team changes that behavior, and when supervision should
-bring the question to them. (Anchor: `THESIS-01`)
+BrainCtx studies a practical gap in long-horizon AI work: knowledge can
+exist, be delivered, and even be cited without changing what an agent
+actually does. Agents often have the ability to check a source, inspect the
+current system, or ask for expertise — and fail to recognize when doing so
+is necessary. They continue from priors, stale readings, or a locally
+coherent trajectory. (Anchor: `THESIS-01`)
 
-## Where the program is now
+The program's hypothesis: an external organizational layer can preserve or
+restore a relevant possibility at the moment it bears, point the actor
+toward current evidence, and let the actor verify, reject, qualify, defer,
+or use it — without the actor's cooperation being assumed, and without
+shoving a whole knowledge corpus into context.
 
-The public record is no longer only an account of system construction. A
-29-primary-source survey identified seven carefully scoped measurement
-absences. A gap registry now ties each absence to a completed study, a built
-study, an in-design study, or an external dependency. (Anchors: `GAPS-01`,
-`REGISTRY-01`)
+## What exists now
 
-The first controlled four-run study is complete. Its corrected primary score
-was null in both conditions. The knowledge condition produced the only
-descriptive registrations, all four agents made honest handoffs on an
-unsupported subtask, and the most useful recorded technique went unused.
-That study established the program's central distinction: presence is not
-activation. (Anchor: `ABL03-01`)
+Since the ablation era ([retained under `archive/`](archive/README.md)),
+the program built and now operates an **attachable
+supervision-and-memory instrument** on its own natural work:
 
-The powered follow-on is built, fixture-tested, pinned, and held unrun for
-supported execution. It crosses two knowledge-store states with three help
-levels, 32 replicates per condition, for 192 runs. Its projected inference
-cost is $205–$626; the larger constraints are serialized time, provider
-throughput, generalization, and replication. (Anchors: `ABL04-POWER-01`,
-`BUDGET-01`)
+- a per-session component attached through a coding-agent host's native
+  hook surface, capturing a passive notebook of what each session does at a
+  bounded per-event cost — observation cost is capped, not absent;
+- a long-running hub that observes attached sessions each heartbeat,
+  evaluates a small set of **armed predicates** — deterministic detectors
+  for the operator's most recurrent failure classes — and on a fire routes
+  a cited, non-blocking nudge to the session it concerns;
+- an append-only custody chain under the fires: every fire, delivery,
+  actor receipt, decision, and correction is journaled, and strict
+  verifiers replay claimed results from exact byte ranges.
 
-A four-run demonstration of the store-plus-live-team condition has also run.
-The team was announced and available, but the agents made zero voluntary asks
-across all three seats. They recorded relevant uncertainty in their own work
-while the seats went unused. That null did not weaken the program; it
-identified the next experimental variable. Availability alone was not enough.
-(Anchor: `ABL04-DEMO-01`)
+The authority ladder is deliberately shallow: a fire produces a reminder, a
+single exact-action pause, a peer dialogue, or silence — never a hard
+policy block. The design bet is that cited, well-timed possibility beats
+enforced verdict. (Anchor: `COMP-01`)
 
-The next design, ablation05, is in progress. It preregisters a seven-rung
-expectation ladder from simple availability through explicit expectation,
-observed collaboration, graded collaboration, coworker feedback, in-run
-supervisor initiation, and comparison with an expert. It also designs
-automatic consultation from uncertainty already written by the agent. No
-ablation05 agent run has started. (Anchor: `ABL05-01`)
+## The measured chain
 
-## Method discipline
+```text
+observable moment where context may be incomplete
+→ actor-recognized need, or externally inferred gap
+→ current knowledge / historical precedent / new research
+→ fresh bearing judgment
+→ cited possibility, never a verdict
+→ reminder, exact-action pause, peer dialogue, or silence
+→ current-world contact
+→ evidence reconciliation
+→ actor acceptance, rejection, deferral, or hand raise
+→ actual next action and artifact effect
+→ later outcome and operator-attention burden
+→ paired knowledge product + activation product
+```
 
-- Questions, treatment wording, stopping rules, scoring, and analyses are
-  written and pinned before outcomes are observed.
-- Evaluation is executable where the task permits independently constructed
-  ground truth.
-- A sealed result is never overwritten. If an instrument is found to be wrong,
-  the original and corrected layers are retained together.
-- Positive, null, negative, mixed, unavailable, and failed results have equal
-  standing.
-- Availability, delivery, use, decision effect, artifact effect, and evaluated
-  outcome remain separate measurements.
-- First-of-kind language is limited to the declared literature search and the
-  exact instrument the program is positioned to produce. (Anchors:
-  `METHOD-01`, `POSITION-01`)
+Individual public systems cover nearly every component of this chain; the
+composition — especially pairing *what was learned* with *what the moment
+before needing it looked like* — is the program's research object. See
+[`RELATED_SYSTEMS.md`](RELATED_SYSTEMS.md) for the overlap and non-novelty
+record.
 
-## Timeline
+## The current claim, plainly
 
-| Date | Program frontier |
-|---|---|
-| July 2026 | Commissioning established retained long-horizon execution, independent evaluation, correction, and knowledge recovery while leaving broad benefit unproved. |
-| 2026-08-07 | The 29-source survey and seven-gap registry landed; the five-stage serviced-ask retrospective covered 29 retained exchanges plus two declared supplements. |
-| 2026-08-07 | Ablation03 closed with a two-layer result: null corrected primary score, descriptive direction in the knowledge condition, universal honest handoffs, and a measured activation miss. |
-| 2026-08-07 | The ablation04 powered 2×3 apparatus was built and pinned; the public budget was derived. |
-| 2026-08-08 | The four-run live-team demo completed with zero voluntary asks. |
-| 2026-08-08 | Ablation05 entered design around the expectation ladder and system-initiated consultation. |
+BrainCtx has physically demonstrated several parts of this chain in natural
+coding work: armed detectors firing on real workload with every fire
+receipted by the actor it reached; false-fire classes becoming same-day
+predicate fixes that held on re-exercise; typed research needs answered
+into the asking session with line-cited sections at a fraction of the prior
+reading cost; and honest nulls retained with equal standing.
+(Anchors: `FLYWHEEL-01`, `NEED-01`, `NULL-02`)
 
-## Start here
+**It has not established general causal benefit.** Mechanism and
+descriptive claims are supportable; causal benefit, long-run
+operator-burden reduction, detector precision at scale, and production
+readiness are open. This is a research instrument, not a product. See
+[`STATUS_AND_CLAIMS.md`](STATUS_AND_CLAIMS.md) for the full claim ladder
+and its ceilings.
 
-- [Gap targets](GAP_TARGETS.md)
-- [Experiment registry](EXPERIMENT_REGISTRY.md)
-- [The live-team demo story](DEMO_STORY.md)
-- [What funding enables](FUNDING.md)
-- [Private evidence anchors](PRIVATE_ANCHORS.md)
-- [Current detailed claims](STATUS_AND_CLAIMS.md)
-- [Methods](METHODOLOGY.md)
-- [Publication policy](PUBLICATION_POLICY.md)
+## Reading order
 
-## Boundary
+1. [`CORE.md`](CORE.md) — the research object and the vocabulary.
+2. [`STATUS_AND_CLAIMS.md`](STATUS_AND_CLAIMS.md) — every material claim
+   with its force and its ceiling.
+3. [`RESEARCH_HIGHLIGHTS.md`](RESEARCH_HIGHLIGHTS.md) — the findings a
+   reader should not leave without.
+4. [`ARCHITECTURE.md`](ARCHITECTURE.md) and
+   [`METHODOLOGY.md`](METHODOLOGY.md) — the instrument and the study
+   discipline.
+5. [`NATURAL_WORK.md`](NATURAL_WORK.md) — the workloads the instrument
+   observed, by evidentiary role.
+6. [`RELATED_SYSTEMS.md`](RELATED_SYSTEMS.md) — adjacent public systems,
+   concepts adopted, concepts rejected, and explicit non-novelty.
+7. [`findings/`](findings/) — the descriptive findings pages, including
+   the nulls and corrections record.
+8. [`archive/`](archive/README.md) — the ablation-era record, retained.
 
-The task domain is described only as a specialized private visual domain
-(egocentric video) absent from public training corpora. This repository
-contains no runtime, raw corpus, raw transcript, seat prompt, private brain
-content, run root, host artifact, title name, or media. Public pages are
-purpose-written research projections and never inputs to a BrainCtx study.
+Claims on every page carry anchors resolving in
+[`PRIVATE_ANCHORS.md`](PRIVATE_ANCHORS.md) — a claim-to-private-custody
+ledger an authorized reviewer can resolve inside private custody. About the
+program, collaboration, and funding: [`ABOUT.md`](ABOUT.md),
+[`COLLABORATE.md`](COLLABORATE.md), [`FUNDING.md`](FUNDING.md).

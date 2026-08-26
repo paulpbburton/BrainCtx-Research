@@ -4,7 +4,7 @@
 
 > **Status:** public explanation of the research instrument
 >
-> **As of:** 2026-08-06
+> **As of:** 2026-08-26
 >
 > **Authority:** public explanation. The private as-built and evidence records
 > govern implementation state and measurements.
@@ -12,124 +12,76 @@
 > **Claim boundary:** functional groups, authority separation, and maturity;
 > not domain outcomes or full implementation disclosure.
 
-## Conceptual architecture
+## Two planes
+
+**A per-session component.** Attached through a coding-agent host's native
+hook surface — every hook event type the host exposes is wired. The hook
+jobs: attach and register the session with the hub; capture a passive
+notebook of what the session does (each capture hook is bounded to a few
+seconds; summed across the several hooks an event carries, the declared
+synchronous ceiling per event stays under half a minute — cost is capped,
+not absent); deliver queued guidance at safe points; and join actor
+receipts back to the deliveries they answer. A parallel adapter exists for
+a second host family. (Anchor: `COMP-01`)
+
+**A long-running hub.** A user-level service that self-refreshes in place.
+Each heartbeat it tails attached sessions' ledgers into an append-only
+observation stream, evaluates the armed predicates, runs independent
+reader panels over recent windows, answers typed research needs from the
+knowledge base into the asking session, and checks its own health with the
+same suspicion it applies to actors — staleness keyed on the loaded
+surface, tick silence as a signal, zero-suppression retained as a row.
+
+## The authority ladder
 
 ```text
-bounded task and admitted knowledge
-→ planning and typed decisions
-→ toolful work
-→ independent supervision and evaluation
-→ typed result and evidence-gated learning
-→ fresh successor context
+silence
+→ reminder (cited possibility, non-directive)
+→ single exact-action pause (once per exact act, then never again)
+→ peer dialogue
+        — and never a hard policy block
 ```
 
-The architecture records boundaries so knowledge availability is not confused
-with consultation, delivery with use, tests with accepted outcome, or absorbed
-knowledge with later activation.
+Hard denial was explicitly declined by the program's operator; the
+component's pre-action plane refuses the host's permission-decision
+mechanism by construction. Mechanical policy is treated as an action
+boundary, never as epistemic truth.
 
-## Functional groups
+## The custody chain
 
-### Planning and execution
+- Every terminal predicate evaluation journals `FIRES / NO_SIGNAL / SKIP /
+  ERROR` with stable identities **before** any delivery.
+- A projector joins fire-time sources, delivery, actor handling, and later
+  correction into six-stage concern episodes
+  (`EVENT → CANDIDATE → KNOWLEDGE → ADJUDICATION → DELIVERY/HANDLING →
+  OUTCOME`), verified by exact byte ranges rather than trust.
+- A denominator layer keeps population, provenance, validity, and cost as
+  independent typed axes; evidence that was not retained is reported
+  `UNAVAILABLE` and reduces the conclusion — it is never inferred.
+- Lifetime identity custody (append-only registry) is separated from
+  operational addressability (`ACTIVE / QUIESCENT_UNKNOWN / ENDED`), so
+  silence means uncertainty rather than death and hot work iterates only
+  the affirmatively active set.
+  (Anchors: `EP-01`, `DEN-01`, `LIFE-01`)
 
-- A planner decomposes bounded dependent work.
-- An actor owns implementation decisions and admitted tools.
-- Repository state provides the explicit inheritance channel.
+## Knowledge and review
 
-### Supervision and judgment
+Knowledge lives in a versioned markdown corpus with indexed owners; every
+enforced expectation must be actor-visible and machine-checkable. Paid-for
+lessons become deterministic predicates on the hub's cadence
+(`LESSON-01`). Changes to the instrument pass a two-seat adversarial
+review — an independent skeptic and an independent founder-critic, both in
+fresh contexts, seeded on the relevant set rather than the corpus — plus a
+mechanical relapse-detector gate; findings are dispositioned by an outcome
+owner rather than auto-remediated. (Anchor: `REVIEW-01`)
 
-- A watcher observes from a different context and remains advisory.
-- Bounded specialists answer narrow typed questions.
-- Cold verification and goal/fidelity review remain distinct.
-- Corrections return to the original actor and require evidence that the
-  retained product actually changed.
+## Maturity, honestly
 
-### Learning and continuation
-
-- Domain and orchestration knowledge travel through separate stores.
-- Evidence classes constrain what a knowledge item may decide.
-- Controlled ingest uses isolated proposals, dual review, receipts, and
-  explicit supersession.
-- A fresh successor waits behind the required knowledge boundary.
-
-## Authority separation
-
-BrainCtx separates implementation ownership from judgment; owner ruling from
-research and opinion; domain knowledge from process knowledge; private
-orchestration context from actor input; and retained failures from successor
-authority.
-
-These separations are experimental and safety properties. They do not prove
-that every role is economically necessary.
-
-## Failure preservation
-
-```text
-custody or runner failure
-model-interface failure
-provider failure
-product defect
-telemetry failure
-study-integrity failure
-honest null or unavailable measurement
-```
-
-A useful artifact may still belong to a failed run. A valid null may redirect
-the next measurement. Neither becomes successor authority without the
-required governance path.
-
-## Instruments
-
-**Bounded observation runner.** Continues past named nonterminal conditions,
-retains the trajectory, and emits a three-tier readout separating task
-evidence, harness conditions, and claim authority.
-
-**Shadow supervision.** Labels completed trajectories, including negatives,
-and writes counterfactual redirects into a dataset unseen by actors. It gates
-nothing.
-
-**Deterministic sensing.** Detects narrowly specified consistency or custody
-conditions. No-signal means only that the detector's predicate did not fire.
-Promotion requires a recorded bar that has not been cleared.
-
-**Fork replay.** Reconstructs a natural decision point under preregistration.
-Controls run first, reconstruction is verified per seat type, and unsupported
-arms are refused.
-
-**Review panels.** Calibrate adjudicators on evidence-complete packets.
-Review rounds can block weak solo bindings and flag context-sensitive records
-without rewriting history.
-
-**Support bridge.** Registers questions before answers and returns a visible
-evidence class. Only scoped owner rulings close owner-defined concerns.
-
-**One-shot caretaker.** Reconciles typed deltas into isolated knowledge
-proposals, writes a receipt before cursor advancement, and fails closed on
-custody disagreement. Governance remains manual.
-
-## Maturity matrix
-
-| Capability | Public maturity |
-|---|---|
-| Planned toolful work with retained custody | **Demonstrated live** |
-| Independent verification and bounded correction | **Demonstrated live** |
-| Cold successor release behind knowledge boundaries | **Demonstrated live** |
-| Bounded natural observation with claim-authority readout | **Demonstrated; no full-chain result** |
-| Deterministic sensing | **Demonstrated in non-gating roles; exit gate not met** |
-| Shadow adjudication | **Design frozen; start mechanically gated** |
-| Higher interaction and selective escalation | **Unearned** |
-| Fork replay | **Verified for a bounded seat class and commissioned** |
-| Judge-panel calibration | **Demonstrated on retained packets only** |
-| Typed support bridge | **Demonstrated at integration scale** |
-| Invalid-state refusal caretaker and knowledge-tier review | **Demonstrated; governance manual** |
-| Reliable knowledge activation | **Unknown; positive and null observations retained** |
-| General coding improvement | **Not supported** |
-
-## Current limits
-
-The architecture has not established end-to-end full-chain completion,
-reliable carry or activation, outcome benefit, sensor authority for gating,
-minimal role topology, provider comparison, or production readiness.
-
-Implementation details, prompts, provider state, domain tasks, private
-knowledge, raw execution roots, and every host-outcome measurement remain
-private.
+Built and operating on one operator's natural work across one primary host
+family plus a second adapter. Known open gaps are stated rather than
+omitted: the running process's loaded bytes are vouched at admission, not
+continuously; semantic adjudication of raw predicate matches,
+counterfactual delivery, causal benefit, and long-run interruption burden
+are unbuilt; pre-cutover historical liveness is permanently unavailable;
+retrieval lacks stemming/synonym bridging. See
+[STATUS_AND_CLAIMS.md](STATUS_AND_CLAIMS.md) for the binding ceilings.
