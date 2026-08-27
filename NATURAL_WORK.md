@@ -7,6 +7,10 @@
 > rewrite, not a redaction — details that would identify private work are
 > absent by construction, not blacked out.
 
+This page is the workload-role overview; the episode/session case layer
+beneath it — selected specimens with equal standing for adversity — is
+the [natural coding-work case ledger](findings/NATURAL_CODING_WORK_SPECIMENS.md).
+
 Almost none of the program's current-era evidence comes from synthetic
 benchmarks. The supervision instrument was built while — and measured
 against — real work in several private repositories. Their evidentiary
