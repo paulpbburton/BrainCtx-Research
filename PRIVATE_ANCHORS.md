@@ -53,7 +53,12 @@ for an authorized reviewer; they are not public evidence by themselves.
 
 ## Verification rule
 
-Every parenthesized anchor used by the current gap-program pages must appear in
-this table. The repository self-check enforces that join. An authorized review
-seat can then resolve the named study and run identifier inside private
-custody.
+Every parenthesized anchor used by a current-era page must appear in this
+table. `python3 tools/selfcheck.py` enforces that join mechanically, along
+with a relative-link walk and an exposure deny-list; a green run claims
+exactly those three joins, nothing more. An authorized review seat can then
+resolve the named study, run identifier, or record class inside private
+custody. (Historical note: an earlier revision of this rule named a
+self-check that did not ship in this repository; the check now exists at
+`tools/selfcheck.py` and this sentence was corrected rather than the claim
+left standing.)
