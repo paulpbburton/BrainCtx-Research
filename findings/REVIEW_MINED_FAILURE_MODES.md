@@ -34,9 +34,9 @@ failure modes, ranked by how many distinct changes each was caught in.
   finding tags, so per-mode counts are judgment-based distillation
   measures — approximate, order-trustworthy, and not mechanically
   reproducible; the source table says this of itself.
-- **Known missing populations, quantified:** 438 further review documents
-  of the same program (192 distinct PRs, later era) and the **entire**
-  successor-program review corpus (738 documents) are retained and
+- **Known missing populations, quantified:** 431 further review documents
+  of the same program (190 distinct PRs, later era) and the **entire**
+  successor-program review corpus (730 documents) are retained and
   UNMINED. Nothing here extrapolates to them, and the top-mode ordering
   may differ there.
 
