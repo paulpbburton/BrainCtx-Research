@@ -9,3 +9,9 @@ this repository characterizes them for research comparison under ordinary
 scholarly quotation and citation practice, with sources named in that
 page's Sources table and version pins retained in the private source
 ledger.
+
+Third-party product names appearing on this surface (for example the
+coding-agent hosts named in [EXPLAINER.md](EXPLAINER.md) and the systems
+in [RELATED_SYSTEMS.md](RELATED_SYSTEMS.md)) are used for identification
+only; no affiliation, sponsorship, or endorsement is implied, and no
+provider-effect claim is made from any host or product name.

@@ -7,7 +7,7 @@
 > **Status:** current-era claim ladder; governs every factual claim on this
 > surface and wins on any difference
 >
-> **As of:** 2026-08-26
+> **As of:** 2026-08-27 (ceiling correction CORR-04; original ladder 2026-08-26)
 >
 > **Supersedes:** the ablation-era ledger, retained verbatim at
 > [`archive/STATUS_AND_CLAIMS_ABLATION_ERA.md`](archive/STATUS_AND_CLAIMS_ABLATION_ERA.md).
@@ -105,9 +105,13 @@ anchors inside private custody via [`PRIVATE_ANCHORS.md`](PRIVATE_ANCHORS.md).
   activity reviewable, which is a different claim.
 - **No precision rate.** Fire counts from one period under evolving
   predicates are tuning specimens, not a precision estimate.
-- **No production readiness.** The instrument runs one operator's natural
-  work on one host family; portability, hardening, and third-party
-  deployment are not claimed.
+- **No production readiness.** The instrument has operated on one
+  operator's natural work across two host families (one witnessed
+  bounded-nudge specimen per host; delivery parity checked in the private
+  suite; the bulk of natural-work volume on the primary host). No
+  host-equivalence or parity certification is claimed, and portability
+  beyond these two hosts, hardening, and third-party deployment are not
+  claimed.
 - **Nulls are results.** The ablation-era nulls (archive) and the
   current-era retrieval nulls stand as findings, not as failures to be
   explained away.
@@ -124,3 +128,9 @@ anchors inside private custody via [`PRIVATE_ANCHORS.md`](PRIVATE_ANCHORS.md).
   set; pre-action entrypoint) were wrong in first draft and corrected from
   independent review, and the as-built now records that its verification
   stamp had covered them falsely. (Anchor: `CORR-03`)
+- This ladder's production-readiness ceiling was first drafted as "one
+  host family," which was overtight against the retained cross-host
+  record (a second host adapter with one witnessed nudge specimen per
+  host). Corrected 2026-08-27 against that record — the substantive
+  non-claims (no parity certification, no portability, no production
+  readiness) are unchanged. (Anchor: `CORR-04`)

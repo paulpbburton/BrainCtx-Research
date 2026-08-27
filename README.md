@@ -81,6 +81,10 @@ and its ceilings.
 
 ## Reading order
 
+**Start here:** [`EXPLAINER.md`](EXPLAINER.md) — the narrative entry
+point: the problem, the mechanism, five observed episodes, and what is
+and is not claimed, written for a first-time reader.
+
 1. [`CORE.md`](CORE.md) — the research object and the vocabulary.
 2. [`STATUS_AND_CLAIMS.md`](STATUS_AND_CLAIMS.md) — every material claim
    with its force and its ceiling.

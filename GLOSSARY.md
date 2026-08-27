@@ -318,3 +318,21 @@ cheap, it produces evidence, and it brings the work closer to contact with its
 outcome. A **process-contact** step only reinforces, certifies, or gates: it is
 self-referential and defers that contact. The first is not drift even though
 nobody asked for it; the second is drift even though it looks like diligence.
+
+## Epistemic contact cue
+
+*Added 2026-08-27.* BrainCtx's unifying intervention shape: limited
+evidence that the actor's context may be incomplete, plus a possibly
+relevant fact or source, a citation or investigation route, a bounded
+reason it may bear, and explicit permission to verify and dismiss. A cue
+is a possibility, never a verdict; an incorrect cue that causes an
+appropriate check and is dismissed can still be doing its job.
+
+## Externally aware memory
+
+*Added 2026-08-27.* Retained project knowledge made active from OUTSIDE
+the actor's own recall: the surrounding system recognizes that a stored
+fact, precedent, or implementation may bear on the current decision and
+surfaces it with a locator — leaving currentness and applicability for
+the actor to verify against the present state of the work.
+
