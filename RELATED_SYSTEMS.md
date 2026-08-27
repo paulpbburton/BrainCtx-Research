@@ -1,9 +1,10 @@
 # Related systems — overlap, adopted concepts, and explicit non-novelty
 
 > **Status:** public projection of a completed concept-extraction research
-> pass · **As of:** 2026-08-26 · **Citation audit:** pending final release
-> review — external links and version pins below are drawn from the private
-> pass's pinned source ledger and will be re-verified at release.
+> pass · **As of:** 2026-08-27 · **Citation audit:** the source list below
+> names each system's public location; the audited VERSION PINS (commit
+> hashes, retrieval dates, rights notes) remain in the private pass's
+> pinned source ledger and are re-verified at release review.
 > **Authority note:** The private record is authoritative; this repository is
 > the legible surface. (Anchor: `ADJ-01`)
 
@@ -40,7 +41,7 @@ gates:                                     established
   result is ready), and burden as a first-class outcome. Its reported
   recovery numbers measure behavior-stopped plus forward progress, not task
   correctness or per-case causal help; BrainCtx keeps those axes separate.
-- **Agent Loom.** The closest analogue to typed durable records: research,
+- **10x (formerly Agent Loom).** The closest analogue to typed durable records: research,
   evidence, critique, accepted knowledge, and bounded worker packets as
   different objects, with placement rules and explicit promotion. Adopted in
   spirit throughout the ledger design; not adopted: automatic promotion from
@@ -76,6 +77,27 @@ gates:                                     established
   read, chain-consistent, semantically true, and actually consumed are
   five different claims. Not adopted: competing as an orchestration
   platform.
+
+## Sources
+
+Public locations, named for the audit; the pinned versions live in the
+private source ledger. The 10x repository formerly published as Agent Loom
+and redirects from that name.
+
+| System | Public location |
+|---|---|
+| The Recall Problem (Nou Collective) | gist.github.com/noument/a2420dc52ff03f6bc8f540e1a90d57dd |
+| Wink | arxiv.org/abs/2602.17037 |
+| 10x (formerly Agent Loom) | github.com/z3z1ma/agent-loom |
+| Sovereign Brain | github.com/LeoStehlik/decoupled-agent-memory |
+| Decision Notes | gist.github.com/gururajl/a2e94896e4772a4e88833be31499bb47 |
+| Ward | github.com/ctoth/ward |
+| Proof Loop | github.com/LeoStehlik/proof-loop |
+| Ralph Review | github.com/kenryu42/ralph-review |
+| AgentClash | github.com/agentclash/agentclash |
+| Memorix | github.com/AVIDS2/memorix |
+| Tutti | github.com/nutthouse/tutti |
+| Bernstein | github.com/sipyourdrink-ltd/bernstein |
 
 ## Concepts deliberately not adopted
 

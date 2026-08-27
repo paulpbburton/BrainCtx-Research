@@ -66,5 +66,7 @@ detector evaluated on observed work; a **fire** is its measurement, never a
 verdict; a **receipt** is the actor's typed disposition of a delivery; an
 **anchor** (as in `THESIS-01`) resolves a public claim to a private
 evidence class in [`PRIVATE_ANCHORS.md`](PRIVATE_ANCHORS.md). The measured
-chain and its per-stage denominators are in
-[`README.md`](README.md) and [`METHODOLOGY.md`](METHODOLOGY.md).
+chain is in [`README.md`](README.md); the per-stage denominator discipline
+(every transition carries its own offered population) is part of the
+private methodology record, summarized in
+[`ARCHITECTURE.md`](ARCHITECTURE.md).
