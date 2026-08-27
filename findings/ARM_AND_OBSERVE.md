@@ -43,3 +43,9 @@ numbers checkable — pre-delivery journaling, six-stage episode projection,
 typed denominators — is described in
 [../ARCHITECTURE.md](../ARCHITECTURE.md). (Anchors: `FLYWHEEL-01`,
 `EP-01`, `DEN-01`)
+
+Selected natural-work episodes and sessions — including the adverse and
+burden cases — are carded in the
+[case ledger](NATURAL_CODING_WORK_SPECIMENS.md) rather than expanded here
+into anecdote.
+

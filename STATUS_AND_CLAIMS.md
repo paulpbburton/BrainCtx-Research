@@ -112,6 +112,12 @@ anchors inside private custody via [`PRIVATE_ANCHORS.md`](PRIVATE_ANCHORS.md).
   host-equivalence or parity certification is claimed, and portability
   beyond these two hosts, hardening, and third-party deployment are not
   claimed.
+- **Selected natural episodes are descriptive, not statistical.** The
+  public case ledger's episodes and sessions are exposed, adaptive,
+  single-operator natural work, selected under a frozen roster rule: no
+  rate, prevalence, precision, provider comparison, or causal benefit
+  follows from any case or from the roster's composition, and
+  host/harness identity is attachment metadata only.
 - **Nulls are results.** The ablation-era nulls (archive) and the
   current-era retrieval nulls stand as findings, not as failures to be
   explained away.

@@ -6,6 +6,24 @@
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
 
+## 2026-08-27 — Natural-work specimen ledger (post-release increment 1)
+
+- findings/NATURAL_CODING_WORK_SPECIMENS.md: the episode/session case
+  layer beneath NATURAL_WORK — a frozen-roster selection (a complete
+  codex-harness implementation series plus the explainer's five episodes
+  plus the cross-host witness), with mandatory shared-unit disclosures,
+  the selected-natural-episode ceiling (added to the claims ladder), and
+  six new anchors (CX-BUILD/DENOM/CUTOVER/BURDEN/REPAIR/XHOST-01). The
+  cohort carries its adversity deliberately: a burden case, a post-merge
+  defect, a refused measurement, a classifier-blocked push — and one
+  proposal claim dropped at freeze when the custodian found the
+  supposedly unrecoverable owner turns retained.
+- Surface-truth reconciliations: PUBLICATION_POLICY's stale release/
+  license clauses updated; ABOUT's specimen sentence narrowed to its
+  intended scope; README's METHODOLOGY pointer era-qualified.
+- RESEARCH_HIGHLIGHTS gains the apparatus-as-burden finding;
+  NULLS_AND_CORRECTIONS gains the cohort's adverse members.
+
 ## 2026-08-27 — Licensing, explainer integration, and a visible ceiling correction
 
 - **License split enacted** per the owner's licensing ruling: non-software

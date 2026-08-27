@@ -1,9 +1,9 @@
 # Finding — natural coding-work specimens
 
 > **Authority note:** The private record is authoritative; this repository is the legible surface.
-> **Artifact class:** `PUBLIC_CASE_LEDGER` · **Status:** DRAFT — roster
-> freeze in progress; cards land only from the frozen custodian fact
-> sheet · **As of:** 2026-08-27
+> **Artifact class:** `PUBLIC_CASE_LEDGER` · **Status:** current case
+> ledger, written from a frozen custodian fact sheet under the roster rule
+> below · **As of:** 2026-08-27
 > Force and ceilings: [../STATUS_AND_CLAIMS.md](../STATUS_AND_CLAIMS.md)
 > governs; the selected-natural-episode ceiling below binds every card.
 
@@ -15,66 +15,164 @@ outcomes with equal standing.
 
 ## The selection rule (frozen before prose)
 
-Cases enter this ledger only through a frozen roster: the private
-evidence custodian pins each case's identity, its exact relation to
-retained sessions (shared trajectories named as such), and its
-public-safe facts BEFORE any card is polished — so this cannot become a
-positive-only anecdote gallery. The roster's selection rule and its
-exclusions are stated with the roster; a case that would need identifying
-detail to be meaningful stays private.
+The roster was frozen by the private evidence custodian before any card
+was polished: (1) the five mechanism episodes already anchored on
+[../EXPLAINER.md](../EXPLAINER.md); (2) **every** owner-commissioned
+codex-harness goal session in one 2026-08 implementation series — taken
+as a complete series, not sampled; (3) the one retained cross-host
+bounded-nudge witness pair. Excluded: the proposal-authoring/audit
+session (it observed the cohort and grounds no case), subagent child
+ledgers (folded into their parent's card as topology, never separate
+cases), and all sessions outside the named series. **Nothing was excluded
+for being unfavorable** — CX-04 is a burden/failure case and CX-02/CX-05
+carry corrections. Every fact below was witnessed against a retained
+record by the custodian; none is copied from a proposal's own claims.
 
 ## Units and denominators
 
 `WORKLOAD` (a repository-scale body of work, by type) ⊃ `SESSION` (one
 attached actor lifetime) ⊃ `EPISODE` (one mechanism sequence within a
-session) ⊃ `ACTION` (one act). Every card names its unit. Episode count
-never implies session independence; two cards may share one underlying
-trajectory, and say so.
+session) ⊃ `ACTION` (one act). Every card names its unit.
+
+**Shared-unit disclosures (mandatory, from the freeze):** the explainer's
+typed-need and bounded-nudge episodes are two episodes within ONE
+underlying long trajectory. The CX cases are five cases grounded in a
+SET of codex-harness sessions whose relation to goals is many-to-many —
+**cases, not independent sessions; exact relations retained privately.**
+(One session implemented two cases' goals in sequence; others engaged
+neighboring goals' planning.)
 
 ## The selected-natural-episode ceiling
 
 These cases are exposed, adaptive, single-operator natural work. They are
-descriptive and non-independent: no rate, prevalence, precision,
-provider comparison, or causal benefit follows from any card or from the
-roster's composition. Host/harness identity, where stated, is attachment
+descriptive and non-independent: no rate, prevalence, precision, provider
+comparison, or causal benefit follows from any card or from the roster's
+composition. Host/harness identity, where stated, is attachment
 population metadata only — never a provider-effect claim — and no model
 identity is published.
-
-## Case-card schema
-
-```text
-public_case_id
-workload_type
-host/harness population (where publication-approved)
-unit: SESSION | EPISODE | ACTION
-selection reason and exposure state
-observed sequence (type-of-work terms)
-BrainCtx contact or apparatus involvement
-actor disposition
-artifact / review / terminal outcome
-corrections and nulls
-what this supports
-what this does not support
-public anchor
-```
 
 ## Mechanism episodes (published in EXPLAINER.md)
 
 The five observed episodes on [../EXPLAINER.md](../EXPLAINER.md) are
 members of this ledger — anchored `NEED-SELF-01`, `MEM-CONTACT-01`,
 `NUDGE-E2E-01`, `TIMING-01`, `REALPATH-01`, with the shared-trajectory
-disclosure carried there (two episodes, one underlying session). Their
-cards are not duplicated here; the explainer's supports/does-not-support
-pairs are their card bodies.
+disclosure carried there and above. Their supports/does-not-support pairs
+are their card bodies; they are not duplicated here.
 
-## The implementation-session cohort
+## The codex-harness implementation cohort
 
-*(Cards land here from the frozen roster — placeholder until the
-custodian fact sheet is approved.)*
+Five session-unit cases from one complete implementation series in which
+codex-harness sessions built and repaired parts of the instrument itself.
+The instrument and its review governance were part of the workload — and
+sometimes part of the problem.
+
+### CX-01 — concern-episode build
+
+- **Unit:** session · **Population:** codex-harness · **Anchor:** `CX-BUILD-01`
+- **Observed sequence:** a large self-hosted mechanism implementation
+  (concern-episode projection with strict byte-range replay) carrying
+  focused, unit, regression, and aggregate testing. An independent
+  skeptic review, run from the submitted state rather than the author's
+  report, **reproduced two integrity failures in the central projection**
+  — a fired concern with no delivery record typed as not-applicable and
+  omitted from missingness, and an internal transcript record promoted to
+  actor-visible evidence on a string match. Correction, merge, and
+  installed observation followed.
+- **Apparatus involvement:** the instrument was the workload; review and
+  check lanes were part of the session's cost.
+- **Disposition/outcome:** contested round → correction → green → merged.
+- **Supports:** mechanism-building with evidence-custody correction and
+  substantial process cost inside one natural session.
+- **Does not support:** any quality or benefit rate — and any claim about
+  the observed-subject population: the case's evidence packet observes
+  sessions on the *other* host family, so the implementation session and
+  the subject population must never be conflated.
+
+### CX-02 — denominator correction
+
+- **Unit:** session · **Population:** codex-harness · **Anchor:** `CX-DENOM-01` (joins `CORR-01`)
+- **Observed sequence:** fresh implementation of a current-day denominator
+  compiler. Review found the historical active/inactive liveness split
+  rested on no retained time-indexed source — a primary-measurement
+  invalidation. The split was **refused rather than estimated**: the axes
+  re-typed unavailable, and the narrower report merged.
+- **Disposition/outcome:** withdrawn-in-writing claim; the correction is
+  already public as `CORR-01` — this card gives it its natural-work
+  narrative.
+- **Supports:** instrument-honesty practice under review pressure.
+- **Does not support:** a codex-only measurement, or any traffic-quality
+  rate (the underlying population is mixed traffic).
+
+### CX-03 — operational active-set cutover
+
+- **Unit:** session · **Population:** codex-harness · **Anchor:** `CX-CUTOVER-01`
+- **Observed sequence:** separation of lifetime identity custody from
+  operational addressability. Repeated delivery and full lanes each
+  re-ran for *distinct* reproduced failure/fix reasons — legitimate rerun
+  evidence, not unbounded repetition. One review round returned a
+  reproduced-failure block for unretained probe/advertisement artifacts,
+  cleared by narrowing the claims to independently reconstructible facts
+  and typing the rest unavailable. **A push attempt was blocked by the
+  host's own action classifier** — the attempt, the rejection, and the
+  subsequent explicit owner authorization are each in custody with exact
+  retained locators. Merge, install, and recovery followed.
+- **Supports:** rerun-evidence discipline; that delivery classifiers can
+  themselves misread ordinary work; retained-attempt custody.
+- **Does not support:** any claim that the blocked push altered the
+  eventual outcome; any provider effect.
+
+### CX-04 — observer fanout and review burden
+
+- **Unit:** session · **Population:** codex-harness · **Anchor:** `CX-BURDEN-01`
+- **Observed sequence:** a hook-timeout wall caused by the observer's own
+  shared hot-file design under sibling-lane fanout; repeated broad
+  suites; four founder review rounds plus four independent skeptic
+  rounds. The owner froze the working scope in-session and two real
+  seams were carried forward as open issues rather than demanded before
+  landing (both verified still open at the freeze). An owner mid-session
+  turn redirecting proportionality is retained as part of the episode.
+- **Supports:** the ledger's strongest burden/failure specimen — the
+  supervision and review apparatus consuming the work it is meant to
+  support; owner intervention as part of the episode, in custody.
+- **Does not support:** prevalence, causal benefit, or that any specific
+  round or suite run was waste.
+
+### CX-05 — bounded courier repair and correction
+
+- **Unit:** session · **Population:** codex-harness · **Anchor:** `CX-REPAIR-01`
+- **Observed sequence:** a focused affected-tests-plus-one-unit-lane
+  strategy with no aggregate execution; initial merge; then a
+  **reproduced post-merge defect** — a typed failure reason silently
+  collapsing to a generic none in one path — repaired by a focused
+  two-file correction merged with a mutation proof isolating the repaired
+  behavior.
+- **Owner intervention, retained:** the owner's tests-side intervention is
+  in custody in full — several distinct retained turns directing focused
+  testing over full-lane reruns and scoping effort to what reviewers
+  already scope to. (An earlier draft of this case claimed the
+  intervention turn was not recoverable; the custodian's freeze found the
+  turns retained and the claim was dropped.) What is genuinely
+  unavailable is the **counterfactual**: this is a single episode with no
+  control.
+- **Supports:** the focused-testing contrast to CX-04; append-only
+  correction practice; owner intervention retained as part of the
+  episode.
+- **Does not support:** attribution of the smoother delivery to the
+  intervention or to any testing rule.
 
 ## Cross-host operation
 
-*(The retained cross-host bounded-nudge witness — one specimen per host,
-explicitly not a parity certification — is referenced here per the
-adopted evaluation; placement as a full card or population note is a
-roster-freeze decision.)*
+### CX-06 — cross-host bounded-nudge witness
+
+- **Unit:** episode pair (one per host family) · **Anchor:** `CX-XHOST-01`
+- **Observed sequence:** one live bounded supervisor-nudge specimen on
+  each host family (codex-harness and claude-harness), compared axis by
+  axis with a locator for every cell in a retained witness document. This
+  is the only retained specimen of the instrument **operating on** a
+  codex-harness actor (the cohort above shows codex sessions *building*
+  it), and it is the evidence basis of the public `CORR-04` two-host
+  ceiling correction.
+- **Supports:** the instrument operating on a codex-harness actor; the
+  two-host operation boundary as publicly stated.
+- **Does not support:** equivalence, parity certification, reliability,
+  or causal benefit — n = 1 per host, explicitly.

@@ -53,3 +53,15 @@
    specimens and the deterministic predicate that now checks it live. The
    registry also lists lessons still awaiting predicates — owed work,
    visibly. (Anchor: `LESSON-01`)
+
+8. **The apparatus can become the burden.** In the natural-work case
+   ledger's strongest adverse specimen, the observer's own shared
+   hot-file design produced a hook-timeout wall under sibling-lane
+   fanout, and eight review rounds accumulated before the operator froze
+   the working scope in-session — the supervision and review apparatus
+   consuming the work it is meant to support. Its contrast case delivered
+   with focused testing and still required a post-merge correction.
+   Neither direction carries a causal or prevalence claim.
+   ([case ledger](findings/NATURAL_CODING_WORK_SPECIMENS.md); anchors
+   `CX-BURDEN-01`, `CX-REPAIR-01`)
+

@@ -52,6 +52,16 @@ zero-voluntary-asks demonstration) stand in the
   in the permitted vocabulary as an append-only correction — reviewer
   independence preserved through the fix. (Anchor: `REVIEW-01`)
 
+- **Natural-work cases carrying their own adversity** (see the
+  [case ledger](NATURAL_CODING_WORK_SPECIMENS.md)): the burden case where
+  the observer's design produced the timeout wall it then had to be
+  repaired for (`CX-BURDEN-01`); the post-merge defect behind an
+  initially merged repair (`CX-REPAIR-01`); the refused-rather-than-
+  estimated denominator split (`CX-DENOM-01`, the natural-work narrative
+  of `CORR-01`); and a case-card claim dropped at roster freeze when the
+  custodian found the "unrecoverable" intervention turns retained in
+  custody — the freeze process correcting the proposal it froze.
+
 The pattern across all of these: the failure surfaces loudly, the
 correction is append-only and attributed, and the corrected claim is
 narrower than the original. That discipline — not the absence of error —

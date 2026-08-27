@@ -99,7 +99,8 @@ and is not claimed, written for a first-time reader.
 6. [`RELATED_SYSTEMS.md`](RELATED_SYSTEMS.md) — adjacent public systems,
    concepts adopted, concepts rejected, and explicit non-novelty.
 7. [`findings/`](findings/) — the descriptive findings pages, including
-   the nulls and corrections record.
+   the [natural coding-work case ledger](findings/NATURAL_CODING_WORK_SPECIMENS.md)
+   and the nulls and corrections record.
 8. [`archive/`](archive/README.md) — the ablation-era record, retained.
 
 Claims on every page carry anchors resolving in
