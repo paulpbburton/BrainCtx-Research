@@ -328,7 +328,10 @@ BrainCtx’s evidence remains early and mostly naturalistic, but several importa
 > The five entries below are mechanism episodes, not five independent
 > sessions. Two of them (the typed-need recovery and the bounded nudge)
 > occurred within the same long trajectory. No rate or independence claim
-> follows from their count.
+> follows from their count. These five are members of the
+> [natural coding-work case ledger](findings/NATURAL_CODING_WORK_SPECIMENS.md),
+> which also carries a codex-harness implementation cohort and the
+> cross-host witness.
 
 ### 1. Typed need and local self-recovery
 

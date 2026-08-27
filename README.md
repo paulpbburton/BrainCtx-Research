@@ -92,8 +92,9 @@ and is not claimed, written for a first-time reader.
    reader should not leave without.
 4. [`ARCHITECTURE.md`](ARCHITECTURE.md) — the instrument; and
    [`METHODOLOGY.md`](METHODOLOGY.md) — the ablation-era study discipline
-   (era-bannered; the current-era natural-work method rules are being
-   added with the specimen ledger).
+   (era-bannered; the current-era natural-work method statement is the
+   [specimen ledger](findings/NATURAL_CODING_WORK_SPECIMENS.md)'s
+   selection rule, unit ladder, and ceiling).
 5. [`NATURAL_WORK.md`](NATURAL_WORK.md) — the workloads the instrument
    observed, by evidentiary role.
 6. [`RELATED_SYSTEMS.md`](RELATED_SYSTEMS.md) — adjacent public systems,

@@ -336,3 +336,21 @@ fact, precedent, or implementation may bear on the current decision and
 surfaces it with a locator — leaving currentness and applicability for
 the actor to verify against the present state of the work.
 
+## Case-ledger units
+
+*Added 2026-08-27.* The natural coding-work case ledger's unit hierarchy:
+a **workload** (a repository-scale body of work, named by type) contains
+**sessions** (one attached actor lifetime each), which contain
+**episodes** (one mechanism sequence), which contain **actions** (one
+act). A ledger **case** is session-scale but is not a claim of session
+independence. Note the word "episode" also appears in "concern-episode"
+(an instrument data object's six-stage record) and in older chain-era
+pages; those senses are distinct from the unit.
+
+## Lane
+
+*Added 2026-08-27.* A bounded, separately runnable test or delivery path
+— e.g. a focused test lane, a unit lane, a delivery lane. "Sibling
+lanes" are lanes of concurrent working branches contending for shared
+resources.
+

@@ -39,7 +39,9 @@ internals. Those remain in private custody. Selected, generic,
 public-native case summaries — rewritten under the publication map, with
 explicit supports/does-not-support limits — are permitted and reviewed
 before they appear (the observed episodes in
-[EXPLAINER.md](EXPLAINER.md) are the first such cases).
+[EXPLAINER.md](EXPLAINER.md) and the cases in the
+[natural coding-work ledger](findings/NATURAL_CODING_WORK_SPECIMENS.md)
+are such cases).
 
 The program does not claim general coding improvement, production readiness,
 reliable knowledge activation, optimal role topology, or a provider ranking.

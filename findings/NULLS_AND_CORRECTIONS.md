@@ -60,7 +60,7 @@ zero-voluntary-asks demonstration) stand in the
   estimated denominator split (`CX-DENOM-01`, the natural-work narrative
   of `CORR-01`); and a case-card claim dropped at roster freeze when the
   custodian found the "unrecoverable" intervention turns retained in
-  custody — the freeze process correcting the proposal it froze.
+  custody — the freeze process correcting the originating publication proposal it froze.
 
 The pattern across all of these: the failure surfaces loudly, the
 correction is append-only and attributed, and the corrected claim is

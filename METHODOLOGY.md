@@ -11,7 +11,9 @@
 
 > **Artifact class:** `PUBLIC_EXPLANATION`
 >
-> **Status:** current public method projection
+> **Status:** historical method projection (ablation era — see the era
+> note above; the current-era method statement is the specimen ledger's
+> selection rule, unit ladder, and ceiling)
 >
 > **As of:** 2026-08-06
 >

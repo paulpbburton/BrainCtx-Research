@@ -60,7 +60,9 @@
    fanout, and eight review rounds accumulated before the operator froze
    the working scope in-session — the supervision and review apparatus
    consuming the work it is meant to support. Its contrast case delivered
-   with focused testing and still required a post-merge correction.
+   with focused testing and required a post-merge correction of its own
+   (the two cases are not comparable — different scope, goal, and code
+   area).
    Neither direction carries a causal or prevalence claim.
    ([case ledger](findings/NATURAL_CODING_WORK_SPECIMENS.md); anchors
    `CX-BURDEN-01`, `CX-REPAIR-01`)
