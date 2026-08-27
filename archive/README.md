@@ -15,5 +15,7 @@
 > [Return to the current research surface](../README.md).
 
 Nothing in this directory has been rewritten; pages keep their original
-status lines and anchors. Anchors cited here resolve in
+status lines and anchors. One mechanical exception: relative link PATHS to
+pages that remained at the repository root were adjusted (`X.md` →
+`../X.md`) so the moved copies still resolve — content untouched. Anchors cited here resolve in
 [`../PRIVATE_ANCHORS.md`](../PRIVATE_ANCHORS.md).

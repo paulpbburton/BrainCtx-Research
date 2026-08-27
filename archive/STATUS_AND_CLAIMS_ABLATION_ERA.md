@@ -175,7 +175,7 @@ implementation and evidence record remain authoritative.
 - **Claim:** The full current role graph is minimal or economically justified.
 - **Status:** `UNKNOWN`
 - **Scope:** role-utility and ablation work have not been completed.
-- **Public evidence:** [architecture maturity](ARCHITECTURE.md#maturity-matrix).
+- **Public evidence:** [architecture maturity](../ARCHITECTURE.md#maturity-matrix).
 - **Limit:** observed value from one role does not justify every role or the
   roster as a whole.
 - **Status changes when:** declared utility, cost, and ablation studies
@@ -192,7 +192,7 @@ implementation and evidence record remain authoritative.
   work: the shadow instrument never reaches a running trajectory, and the
   efficacy question this claim names remains unmeasured.
 - **Scope:** post-baseline research direction.
-- **Public evidence:** [research program](RESEARCH_PROGRAM.md#later-research-directions).
+- **Public evidence:** [research program](../RESEARCH_PROGRAM.md#later-research-directions).
 - **Limit:** the current checkpoint-level roles are not evidence for the
   proposed interaction seam.
 - **Status changes when:** a bounded paired-supervision study produces a
@@ -214,7 +214,7 @@ implementation and evidence record remain authoritative.
   sensor has cleared a promotion bar, and no escalation has been commissioned;
   the status is unchanged.
 - **Scope:** post-baseline research direction.
-- **Public evidence:** [research program](RESEARCH_PROGRAM.md#later-research-directions).
+- **Public evidence:** [research program](../RESEARCH_PROGRAM.md#later-research-directions).
 - **Limit:** neither sensor precision nor cascade economics has been measured.
 - **Status changes when:** a declared cascade study measures invocation,
   misses, false positives, handling, outcomes, and cost.
@@ -369,7 +369,7 @@ implementation and evidence record remain authoritative.
   signal cleared a promotion bar. Counts and precision-like values remain
   private.
 - **Public evidence:** [bounded observations](studies/scene-root-core-01/OBSERVATIONS.md)
-  and [methods](METHODOLOGY.md#2-shadow-supervision).
+  and [methods](../METHODOLOGY.md#2-shadow-supervision).
 - **Limit:** single-evaluator and hindsight exposure remain in the underlying
   passes. Instrument operation is not evidence that supervision improves work.
 - **Status changes when:** a blinded or live arm measures redirect effects, or
@@ -475,7 +475,7 @@ implementation and evidence record remain authoritative.
   contract did not. A separate retrospective tranche of six sealed episodes
   records 5 owner-prompted against 1 actor-initiated under an explicit
   optional affordance — a purposive sample from which no rate generalizes.
-- **Public evidence:** [research program](RESEARCH_PROGRAM.md#the-crux-prior-over-instruction-dominance)
+- **Public evidence:** [research program](../RESEARCH_PROGRAM.md#the-crux-prior-over-instruction-dominance)
   and [bounded observations](studies/scene-root-core-01/OBSERVATIONS.md).
 - **Updated 2026-08-01:** status and hypothesis unchanged, and the direct test
   is now known to be **blocked at the current interface**. The pre-registered
@@ -743,7 +743,7 @@ implementation and evidence record remain authoritative.
   terms' gated runtime build exists: fourteen named, mechanically attestable
   cohort-start readiness predicates are published whose attesting test module
   deliberately does not exist yet. No calibration row can exist by accident.
-- **Public evidence:** [architecture and maturity](ARCHITECTURE.md#instruments)
+- **Public evidence:** [architecture and maturity](../ARCHITECTURE.md#instruments)
   and the private freeze and ratification records mapped to this claim.
 - **Limit:** a frozen design demonstrates nothing about adjudication quality;
   the cohort has zero rows. The ratification record carries its own
@@ -827,7 +827,7 @@ implementation and evidence record remain authoritative.
   without first proving that the actor could execute, so an execution smoke
   gate was added. The public finding is invalid-state refusal custody and a review-scope
   correction, not the host work.
-- **Public evidence:** [research program](RESEARCH_PROGRAM.md) and the private
+- **Public evidence:** [research program](../RESEARCH_PROGRAM.md) and the private
   halt receipts mapped to this claim.
 - **Limit:** no behavioral comparison ran. The review finding describes one
   apparatus history and does not establish a general review-failure rate.
@@ -842,7 +842,7 @@ implementation and evidence record remain authoritative.
   self-verification outward. This nominates a registered comparison about
   responsibility allocation. Host-domain outputs and behavioral values are
   private.
-- **Public evidence:** [research program](RESEARCH_PROGRAM.md#license-uncertainty-expression-and-advice).
+- **Public evidence:** [research program](../RESEARCH_PROGRAM.md#license-uncertainty-expression-and-advice).
 - **Limit:** the runs were small and time-confounded, bindings and isolation
   were not fully frozen, and mechanical doubt measures may miss latent state.
   No quality, provider, model, or general-performance claim follows.
@@ -856,7 +856,7 @@ implementation and evidence record remain authoritative.
   a receiver did not produce use of that channel. Paired with C-035, the
   current evidence is consistent with behavior responding to responsibility
   rather than vocabulary alone.
-- **Public evidence:** [research program](RESEARCH_PROGRAM.md#license-uncertainty-expression-and-advice).
+- **Public evidence:** [research program](../RESEARCH_PROGRAM.md#license-uncertainty-expression-and-advice).
 - **Limit:** the mechanical read can miss synonyms and latent uncertainty. A
   null on expression is not a null subjective state.
 - **Status changes when:** a registered receiver or responsibility contrast
