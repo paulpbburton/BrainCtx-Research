@@ -90,9 +90,10 @@ and is not claimed, written for a first-time reader.
    with its force and its ceiling.
 3. [`RESEARCH_HIGHLIGHTS.md`](RESEARCH_HIGHLIGHTS.md) — the findings a
    reader should not leave without.
-4. [`ARCHITECTURE.md`](ARCHITECTURE.md) and
-   [`METHODOLOGY.md`](METHODOLOGY.md) — the instrument and the study
-   discipline.
+4. [`ARCHITECTURE.md`](ARCHITECTURE.md) — the instrument; and
+   [`METHODOLOGY.md`](METHODOLOGY.md) — the ablation-era study discipline
+   (era-bannered; the current-era natural-work method rules are being
+   added with the specimen ledger).
 5. [`NATURAL_WORK.md`](NATURAL_WORK.md) — the workloads the instrument
    observed, by evidentiary role.
 6. [`RELATED_SYSTEMS.md`](RELATED_SYSTEMS.md) — adjacent public systems,

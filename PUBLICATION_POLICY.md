@@ -2,7 +2,8 @@
 
 > **Authority note:** The private record is authoritative; this repository is the legible surface.
 
-> **Status:** active policy for repository authoring; release review pending
+> **Status:** active policy for repository authoring; first release
+> review completed at v0.2 (2026-08-27)
 >
 > **As of:** 2026-08-06
 >
@@ -189,6 +190,10 @@ published only when their limits and private authority are explicit.
 
 ## Licensing
 
-No license is granted merely because this repository is publicly readable.
-Licensing will be selected deliberately before public release. Prose, schemas,
-and any future sample code may receive different licenses.
+Licensing was selected deliberately at the v0.2 release (2026-08-27):
+non-software content under CC BY 4.0 and code under Apache 2.0, per
+[LICENSE.md](LICENSE.md), with trademark rights reserved and third-party
+material excluded. Material NOT present in this repository — the private
+implementation, transcripts, corpora, prompts, and raw evidence — remains
+unpublished, and no license is granted over it by this repository's
+public readability.
