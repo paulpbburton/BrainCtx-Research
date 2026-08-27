@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: Apache-2.0
 """Repository self-check for the public research surface.
 
 Three gates, all stdlib, run from the repository root:

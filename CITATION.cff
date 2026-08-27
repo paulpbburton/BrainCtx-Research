@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: >-
+  When referring to BrainCtx or its research results, please cite this
+  repository (or the specific case study or findings page you used).
+title: "BrainCtx: Externally Initiated Epistemic Reconsideration for Long-Horizon Coding Agents"
+authors:
+  - family-names: Burton
+    given-names: Paul
+date-released: "2026-08-27"
+version: "0.2"
+license: CC-BY-4.0

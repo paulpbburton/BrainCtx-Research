@@ -103,6 +103,22 @@ ledger an authorized reviewer can resolve inside private custody. About the
 program, collaboration, and funding: [`ABOUT.md`](ABOUT.md),
 [`COLLABORATE.md`](COLLABORATE.md), [`FUNDING.md`](FUNDING.md).
 
+## Citation
+
+When referring to BrainCtx or its research results, please cite:
+
+> Paul Burton. "BrainCtx: Externally Initiated Epistemic Reconsideration
+> for Long-Horizon Coding Agents." BrainCtx-Research, 2026.
+
+Machine-readable form: [`CITATION.cff`](CITATION.cff). Citing the specific
+case study or findings page you used is welcome.
+
+## License
+
+Documentation is CC BY 4.0; code is Apache 2.0 — see
+[`LICENSE.md`](LICENSE.md) for the split and what it deliberately does not
+cover (the private implementation and evidence are not distributed).
+
 ---
 
 Contact: paulpb.burton@gmail.com
