@@ -1,10 +1,12 @@
 # Related systems — overlap, adopted concepts, and explicit non-novelty
 
 > **Status:** public projection of a completed concept-extraction research
-> pass · **As of:** 2026-08-27 · **Citation audit:** the source list below
-> names each system's public location; the audited VERSION PINS (commit
-> hashes, retrieval dates, rights notes) remain in the private pass's
-> pinned source ledger and are re-verified at release review.
+> pass · **As of:** 2026-08-27 · **Citation audit:** CLOSED GREEN at
+> release review (independent two-session audit, 2026-08-27): every system
+> characterization traces to the private pass's pinned source ledger, no
+> source-system performance numbers crossed, and the adopted/rejected
+> enumerations match both sides. The audited VERSION PINS (commit hashes,
+> retrieval dates, rights notes) remain in the private ledger.
 > **Authority note:** The private record is authoritative; this repository is
 > the legible surface. (Anchor: `ADJ-01`)
 

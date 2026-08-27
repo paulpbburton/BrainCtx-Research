@@ -1,0 +1,6 @@
+# Deliberately published identity values — EXACT matches only, never
+# patterns. An exposure-detector hit whose entire match equals a line here
+# is reported as an authorized public-identity occurrence; anything else
+# fails the check. Governed by PUBLICATION_POLICY.md; extend only by an
+# explicit publication decision.
+paulpb.burton@gmail.com

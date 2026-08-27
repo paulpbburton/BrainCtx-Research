@@ -38,3 +38,7 @@ or implementation internals. Those remain in private custody.
 
 The program does not claim general coding improvement, production readiness,
 reliable knowledge activation, optimal role topology, or a provider ranking.
+
+---
+
+Contact: paulpb.burton@gmail.com

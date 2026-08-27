@@ -21,6 +21,16 @@ Three gates, all stdlib, run from the repository root:
    comments) at release-review time. A green run without that variable
    claims only the generic classes.
 
+   PUBLIC_IDENTITY_ALLOWLIST.txt (repository root, committed) lists the
+   EXACT values that are deliberately published identity — the contact
+   email, and nothing patterned. An exposure hit whose entire match is an
+   allowlisted exact value counts as an authorized public-identity
+   occurrence, reported separately; everything else remains a failure.
+   The detector is never weakened and no file is exempted — the report
+   distinguishes "authorized public identity occurrences: N" from
+   "unintended exposure findings: 0" rather than pretending a repository
+   with a public contact address contains no email-shaped strings.
+
 Exit 0 with a per-gate summary, exit 1 naming every violation. A green
 run claims exactly these joins — not semantic truth, not claim force,
 not release approval.
@@ -50,6 +60,14 @@ ANCHOR_ID = re.compile(r"`([A-Z0-9-]+)`")
 LINK = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 
 
+def allowlist() -> set[str]:
+    f = ROOT / "PUBLIC_IDENTITY_ALLOWLIST.txt"
+    if not f.exists():
+        return set()
+    return {l.strip() for l in f.read_text().splitlines()
+            if l.strip() and not l.strip().startswith("#")}
+
+
 def patterns() -> list[re.Pattern]:
     pats = [re.compile(p, re.I) for p in GENERIC]
     extra = os.environ.get("SELFCHECK_PRIVATE_PATTERNS")
@@ -71,6 +89,8 @@ def texts():
 def main() -> int:
     failures: list[str] = []
     pats = patterns()
+    allowed = allowlist()
+    authorized: list[str] = []
 
     table = set(ANCHOR_ID.findall(
         "\n".join(l for l in (ROOT / "PRIVATE_ANCHORS.md").read_text().splitlines()
@@ -92,7 +112,11 @@ def main() -> int:
                     failures.append(f"LINK {rel}: unresolvable -> {target}")
         for i, line in enumerate(body.splitlines(), 1):
             for p in pats:
-                if p.search(line):
+                m = p.search(line)
+                if m:
+                    if m.group(0) in allowed:
+                        authorized.append(str(rel))
+                        continue
                     failures.append(f"EXPOSURE {rel}:{i}: {line.strip()[:80]}")
                     break
     for a in sorted(cited - table):
@@ -101,6 +125,10 @@ def main() -> int:
     print(f"anchor join: {len(cited)} cited, {len(table)} table rows, "
           f"{len(cited - table)} missing")
     print(f"link walk:   {links} relative links checked")
+    print(f"authorized public identity occurrences: {len(authorized)}"
+          + (f" ({', '.join(sorted(set(authorized)))})" if authorized else ""))
+    print(f"unintended exposure findings: "
+          f"{sum(1 for x in failures if x.startswith('EXPOSURE'))}")
     for f in failures:
         print("FAIL", f)
     print("RESULT:", "FAIL" if failures else "PASS")

@@ -66,6 +66,7 @@ the outcome more favorable.
 
 ## Contact
 
-A public contact route will be added before the first release. Until then,
-this file records the kinds of collaboration the project is prepared to
-discuss, not an open submission channel.
+**paulpb.burton@gmail.com** — research discussion, collaboration, funding,
+design-partner, and employment inquiries are all welcome at the same
+address. This file records the kinds of collaboration the project is
+prepared to discuss.

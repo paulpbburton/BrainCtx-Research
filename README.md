@@ -102,3 +102,7 @@ Claims on every page carry anchors resolving in
 ledger an authorized reviewer can resolve inside private custody. About the
 program, collaboration, and funding: [`ABOUT.md`](ABOUT.md),
 [`COLLABORATE.md`](COLLABORATE.md), [`FUNDING.md`](FUNDING.md).
+
+---
+
+Contact: paulpb.burton@gmail.com
