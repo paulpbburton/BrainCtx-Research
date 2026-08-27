@@ -114,7 +114,21 @@ def main() -> int:
             for p in pats:
                 m = p.search(line)
                 if m:
-                    if m.group(0) in allowed:
+                    # Authorized iff the match's span lies inside a LITERAL
+                    # occurrence of an allowlisted exact value on this line:
+                    # a private substring pattern firing inside the published
+                    # contact address is authorized; the same substring
+                    # anywhere else still fails. Nothing non-literal ever
+                    # authorizes, and the detectors are never weakened.
+                    def _within_allowed(match) -> bool:
+                        for v in allowed:
+                            start = line.find(v)
+                            while start != -1:
+                                if start <= match.start() and match.end() <= start + len(v):
+                                    return True
+                                start = line.find(v, start + 1)
+                        return False
+                    if _within_allowed(m):
                         authorized.append(str(rel))
                         continue
                     failures.append(f"EXPOSURE {rel}:{i}: {line.strip()[:80]}")

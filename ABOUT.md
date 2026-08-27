@@ -39,6 +39,18 @@ or implementation internals. Those remain in private custody.
 The program does not claim general coding improvement, production readiness,
 reliable knowledge activation, optimal role topology, or a provider ranking.
 
+## AI use and research ownership
+
+This research is conducted with substantial use of AI systems — coding
+agents are simultaneously the program's subject, its instruments, and
+contributors to its implementation and documentation. Study design,
+claims, rulings, publication decisions, and this repository's contents
+are owned and reviewed by the human researcher; the claim ladder in
+[STATUS_AND_CLAIMS.md](STATUS_AND_CLAIMS.md) and the private evidence
+custody it anchors are the authorities for what is and is not claimed.
+This statement is the repository's AI-use disclosure; per-commit
+attribution trailers are deliberately not used.
+
 ---
 
 Contact: paulpb.burton@gmail.com
