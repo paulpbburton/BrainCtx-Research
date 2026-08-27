@@ -6,6 +6,18 @@
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
 
+## 2026-08-27 — Measured resource profile on the specimen ledger
+
+- The case ledger gains a per-session resource table for the codex-harness
+  cohort (anchor `CX-QUANT-01`), gated by a second frozen extraction
+  receipt: units fixed before counting, every cell bit-identical to a
+  receipt cell, one declared derivation (elapsed, nearest-minute), the
+  instrument's own overhead reported as a declared subset column, and the
+  retained owner-turns count deliberately withheld as a partial
+  population. Dual-witnessed (independent re-derivation of every row)
+  before publication. Descriptive only: no rate, efficiency, provider, or
+  benefit claim.
+
 ## 2026-08-27 — Failure-mode extraction receipt; counts ungated
 
 - The extraction receipt behind findings/REVIEW_MINED_FAILURE_MODES.md is

@@ -80,6 +80,57 @@ codex-harness sessions built and repaired parts of the instrument itself.
 The instrument and its review governance were part of the workload — and
 sometimes part of the problem.
 
+### Measured resource profile (receipt-gated)
+
+An extraction receipt (frozen 2026-08-27, retained privately; anchor
+`CX-QUANT-01`) fixes the units before any counting: a tool event is one
+retained execution record (call+result = one event, compaction echoes
+excluded by identifier); a test invocation is an executed test entrypoint,
+not an inspection; failure classes come from the record's own terminal
+vocabulary, measured to exact closure over every execution in the cohort
+before use. One blocked-delivery event is retained by
+citation rather than counted (the store has no typed refusal record), and
+the instrument's own hook traffic is reported in its own column, a
+declared subset of the execution count.
+
+| Case (unit: session) | Elapsed (derived, see note) | Tool events | Executions | Failed | Backgrounded (no terminal status) | Test invocations | Failed test runs | Repeated commands | Aborted turns | Instrument-overhead executions (see note) | Subagents spawned |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| CX-01 main | ~4h08m | 881 | 606 | 4 | 18 | 123 | 0 | 14 | 0 | 2 | 7 |
+| CX-01 subagent | ~1h02m | 174 | 168 | 0 | 0 | 28 | 0 | 1 | 0 | 0 | 0 |
+| CX-02 main | ~1h46m | 341 | 304 | 4 | 2 | 72 | 0 | 8 | 0 | 0 | 4 |
+| CX-03 main | ~4h51m | 717 | 587 | 10 | 10 | 149 | 4 | 10 | 0 | 27 | 10 |
+| CX-03/CX-05 follow-up | ~1h05m | 250 | 217 | 1 | 1 | 73 | 1 | 3 | 0 | 24 | 4 |
+| CX-04 main | ~2h39m | 442 | 343 | 6 | 2 | 85 | 2 | 10 | 1 | 90 | 8 |
+| CX-04 subagent a | ~12m | 57 | 54 | 0 | 0 | 8 | 0 | 0 | 0 | 10 | 0 |
+| CX-04 subagent b | ~34m | 109 | 105 | 0 | 0 | 15 | 0 | 2 | 0 | 12 | 0 |
+| CX-04 subagent c | ~33m | 117 | 114 | 0 | 0 | 13 | 0 | 0 | 0 | 15 | 0 |
+| CX-05 main | ~57m | 226 | 201 | 4 | 5 | 54 | 1 | 4 | 2 | 38 | 2 |
+
+Notes bound to the columns: **Elapsed** is the only derived column — it
+is the receipt's two boundary timestamps subtracted and rounded to the
+NEAREST minute (declared rounding; every other cell is bit-identical to a
+frozen-receipt cell). **Instrument-overhead executions** are the
+supervision instrument's own hook/courier commands running inside the
+session — a SUBSET of the Executions column, reported separately so the
+instrument's own cost is visible; the work columns are not reduced by it,
+and reading the two columns together is how to separate instrument cost
+from work. The receipt also holds a
+retained owner-turns count that is NOT published: its store is a partial
+population and a lower bound invites misreading as a total; the cards'
+qualitative owner-intervention statements stand instead.
+
+What the table supports: the cases' relative resource shapes — CX-04's
+main session carries 90 instrument-overhead executions against CX-02's 0,
+the burden story its card tells, now in one column; CX-03's 149 test
+invocations against the follow-up session's 73 is the broad-versus-focused
+testing contrast, observational only. What it does not support: any rate,
+efficiency, provider, or benefit claim; the cases remain non-independent
+(shared-unit disclosure above), and elapsed wall clock carries no
+activity-density claim. Counts are mechanical under the receipt's units;
+the receipt and its producing script are hash-pinned privately and
+re-derivable by an authorized reviewer. (Anchors: `CX-QUANT-01`, and the
+per-case anchors on each card.)
+
 ### CX-01 — concern-episode build
 
 - **Unit:** case (session-scale; not an independent session — see the shared-unit disclosure) · **Attached harness:** codex (attachment metadata, not the population under study) · **Anchor:** `CX-BUILD-01`
