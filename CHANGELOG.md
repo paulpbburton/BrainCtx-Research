@@ -6,6 +6,19 @@
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
 
+## 2026-08-27 — Failure-mode extraction receipt; counts ungated
+
+- The extraction receipt behind findings/REVIEW_MINED_FAILURE_MODES.md is
+  frozen (retained privately, hash-pinned): the corpus denominators
+  reproduce mechanically (172 review documents / 144 distinct PRs,
+  matching the retained table's own header exactly), the distillation
+  procedure and its honest limit are stated (per-mode counts are
+  order-trustworthy approximations, not grep-reproducible), and the
+  unmined sibling populations are quantified (438 later-era documents of
+  the same program; the successor program's entire 738-document corpus).
+  The top-five mode counts are now published under that contract; the
+  remaining twelve modes stay qualitative. (`REVIEW-CORPUS-02`)
+
 ## 2026-08-27 — Natural-work specimen ledger (post-release increment 1)
 
 - findings/NATURAL_CODING_WORK_SPECIMENS.md: the episode/session case

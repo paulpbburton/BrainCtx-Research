@@ -61,6 +61,7 @@ for an authorized reviewer; they are not public evidence by themselves.
 | `CX-BURDEN-01` | CX-04: a hook-timeout wall from the observer's own hot-file design under fanout, eight review rounds, an in-session owner scope freeze, and two seams carried as open issues. | the session ledger with subagent lineage, the eight review-round records, and the carried-issue pair | Burden/failure case; no prevalence or waste claim |
 | `CX-REPAIR-01` | CX-05: focused testing, a reproduced post-merge typed-unavailability defect, a focused correction with mutation proof, and the owner's tests-side intervention retained in custody. | two session ledgers, the retained owner intervention turns, and the post-merge correction review | Descriptive case + correction; counterfactual unavailable |
 | `CX-XHOST-01` | CX-06: one live bounded-nudge specimen per host family, compared axis by axis; the evidence under `CORR-04`. | the cross-host witness document and its per-cell locators | Episode pair; n=1 per host; no parity certification |
+| `REVIEW-CORPUS-02` | The extraction receipt behind the failure-mode counts: mechanically verified denominators (172 docs / 144 distinct PRs, seat split, boundary dates), the distillation procedure with its stated non-reproducibility, and the quantified unmined populations. | the frozen extraction receipt and the retained table, both hash-pinned in the session ledger at freeze | Methods receipt; counts remain approximate by its own contract |
 
 ## Verification rule
 

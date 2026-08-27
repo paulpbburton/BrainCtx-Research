@@ -80,9 +80,12 @@ anchors inside private custody via [`PRIVATE_ANCHORS.md`](PRIVATE_ANCHORS.md).
    documents cluster into seventeen recurring modes; the top modes concern
    unverified byte-identity claims, overclaim without a reproducing
    artifact, vacuous tests, stale citations, and silently disabled signal.
-   Force: descriptive characterization of a retained natural-work corpus;
-   headline counts publish only with the public extraction receipt, which
-   is pending. (Anchor: `REVIEW-CORPUS-01`)
+   Force: descriptive characterization of a retained natural-work corpus.
+   The extraction receipt is frozen (2026-08-27): its denominators (172
+   documents / 144 distinct PRs) reproduce mechanically and the top-mode
+   counts are published as order-trustworthy approximate distillation
+   measures, with the unmined sibling populations quantified. (Anchors:
+   `REVIEW-CORPUS-01`, `REVIEW-CORPUS-02`)
 7. **Paid-for lessons become deterministic checks.** The operating rule —
    a lesson that stays prose is the defect — is enacted: each entered
    lesson row carries its measured specimens and the predicate that now
