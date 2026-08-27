@@ -6,6 +6,34 @@
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
 
+## 2026-08-27 — Licensing, explainer integration, and a visible ceiling correction
+
+- **License split enacted** per the owner's licensing ruling: non-software
+  content CC BY 4.0, code and machine-facing schemas Apache 2.0, canonical
+  texts in `LICENSES/`, NOTICE/TRADEMARKS/THIRD_PARTY_NOTICES/CITATION.cff
+  added, SPDX identifier in the self-check; the private implementation and
+  evidence remain unpublished and unlicensed. (Enacted alongside: AI-use
+  disclosure in ABOUT.md replacing per-commit attribution trailers, which
+  were removed from this repository's history by owner decision; and the
+  self-check's public-identity allowlist with span-containment
+  authorization, so authorized identity occurrences are reported
+  separately from unintended exposure in both check modes.)
+- **EXPLAINER.md integrated into v0.2** by owner decision after a
+  two-session joint review: draft banner resolved; contact filled; the
+  five observed episodes anchored (`NEED-SELF-01`, `MEM-CONTACT-01`,
+  `NUDGE-E2E-01`, `REALPATH-01`, plus `TIMING-01`), with the disclosure
+  that two episodes share one underlying trajectory; cold-reader glosses;
+  flywheel and chain-governance notes; README "Start here" link; two new
+  GLOSSARY entries; nominative-use sentence in THIRD_PARTY_NOTICES. No
+  specific model is named anywhere on this surface; multi-provider host
+  usage is covered by harness names only (owner ruling).
+- **VISIBLE CORRECTION (`CORR-04`)**: the production-readiness ceiling was
+  drafted overtight ("one host family") and is corrected against the
+  retained cross-host record — two host families operated, one witnessed
+  nudge specimen each, delivery parity checked privately; no parity
+  certification, no portability beyond these two, no production claim.
+  Recorded in the claims ladder's Corrections section and here.
+
 ## 2026-08-26 — Current research surface (v0.2 restructure)
 
 - Fresh top-level restructure onto the current era: the program pivoted
