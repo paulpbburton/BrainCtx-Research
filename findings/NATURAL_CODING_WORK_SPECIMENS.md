@@ -49,8 +49,8 @@ set's session count, are retained privately.** (A *goal* here is one
 owner-commissioned issue-scale objective; goals sit above sessions in
 commissioning and may span or share sessions — one session implemented
 two cases' goals in sequence, and others engaged neighboring goals'
-planning.) Whether **CX-06**'s codex-side specimen shares a session with
-the cohort is part of the privately retained relations. Throughout this
+planning.) **CX-06**'s codex-side specimen predates the cohort's
+implementation series and shares no session with it. Throughout this
 surface, "the owner" and "the operator" name the same person — the
 program's single human researcher; "founder review" names a review seat,
 not a person.
