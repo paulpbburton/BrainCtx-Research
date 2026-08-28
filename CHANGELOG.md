@@ -6,6 +6,25 @@
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
 
+## 2026-08-28 — The recovery arc (post-release increment 2)
+
+- findings/NATURAL_CODING_WORK_SPECIMENS.md gains a four-case
+  claude-harness recovery-arc section from one 2026-08-27/28 session,
+  with a declared weaker writing basis (authored by the performing
+  session from its own retained record, not custodian-frozen):
+  `RC-STORE-01` (observation-store compression, rotation, and
+  verify-then-release migration, with the live recovery state and its
+  carried honesty limits), `RC-LANE-01` (the research lane silenced by
+  its own backpressure cap, the operator's retained discovery, and the
+  restoration whose first live act commissioned the swallowed need),
+  `RC-FIGURE-01` (the stale-figure correction class and its structural
+  cure), `RC-TEST-01` (focused-landing-form adoption, the deferred slow
+  tier, and the pre-action reminder that false-fired on its own author —
+  including the author's own receipted post-adoption relapse).
+- NULLS_AND_CORRECTIONS gains the silenced-lane quiet-failure null and
+  the stale-figure correction class; PRIVATE_ANCHORS gains the four
+  `RC-*` rows.
+
 ## 2026-08-27 — Measured resource profile on the specimen ledger
 
 - The case ledger gains a per-session resource table for the codex-harness

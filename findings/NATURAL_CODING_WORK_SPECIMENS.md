@@ -4,7 +4,9 @@
 > **Artifact class:** `PUBLIC_CASE_LEDGER` · **Status:** current case
 > ledger. A private evidence custodian freezes each case's facts before
 > the public editor writes — this page was written from that frozen fact
-> sheet alone, under the roster rule below · **As of:** 2026-08-27
+> sheet alone, under the roster rule below (the 2026-08-28 recovery-arc
+> increment declares its own weaker writing basis in place) ·
+> **As of:** 2026-08-28
 > Force and ceilings: [../STATUS_AND_CLAIMS.md](../STATUS_AND_CLAIMS.md)
 > governs; the selected-natural-episode ceiling below binds every card.
 > Review vocabulary ("skeptic" and "founder" seats) is defined in
@@ -250,3 +252,117 @@ per-case anchors on each card.)
   two-host operation boundary as publicly stated.
 - **Does not support:** equivalence, parity certification, reliability,
   or causal benefit — n = 1 per host, explicitly.
+
+## The recovery arc (post-release increment 2, 2026-08-28)
+
+Four cases from ONE claude-harness orchestrating session spanning
+2026-08-27/28 — the strongest non-independence on this page: every card
+below is an episode inside a single attached session, and the arc is
+published as a set because its cases correct and depend on one another.
+
+**Writing-basis disclosure (weaker than the cohort above, declared):**
+these cards were written by the performing session itself from its own
+retained ledger, merged review documents, and service logs — NOT from a
+custodian-frozen fact sheet. Every figure is bit-copied from a retained
+witness row an authorized reviewer can resolve through the anchors;
+independence of authorship is what this increment does not have.
+
+**Selection rule:** the complete owner-commissioned arc of that session
+(resource-bounds work, testing-form adoption, research-lane restoration),
+nothing sampled and nothing excluded for being unfavorable — RC-02 is an
+apparatus-harm case and RC-03 is a correction class the session's own
+instruments emitted five to six times.
+
+### RC-01 — observation-store recovery
+
+- **Unit:** episode (within the shared session above) · **Attached harness:** claude (attachment metadata, not the population under study) · **Anchor:** `RC-STORE-01`
+- **Observed sequence:** the live observer's append-only store had grown
+  to ~26.4 GB on a 95%-full disk, with the largest current-shape row
+  carrying 22,125 of 23,400 matrix cells as one identical default. Two
+  merged increments: a lossless write-shape compression (the sampled
+  largest current-shape row replayed 2.94 MB → 1.08 MB, expansion
+  reproducing all cells through the unchanged validator), then sealed
+  segment rotation plus a verify-then-release migration to archive
+  custody (sha256 verified, released only after verification, the
+  archive never overwritten).
+- **Recovery state, witnessed live:** the first rotation closed a
+  26,545,740,033-byte segment with the fold's projection carried across
+  the boundary; migration completed with the hash retained and the home
+  filesystem moved from 41 GB to 66 GB free; the cold reader now EARNS
+  its coverage token from the store's own rotation lineage and types a
+  broken or unreachable chain rather than silently shrinking
+  denominators.
+- **Supports:** the instrument paying down its own accumulated cost
+  through routine typed paths; honest partial-coverage typing.
+- **Does not support:** durability or corruption-detection assurance —
+  the coverage token verifies linkage, not bytes (the migration hashes
+  are the byte custody), and one pre-rotation-row crash window is
+  carried open, both stated in the merged record.
+
+### RC-02 — the silenced research lane
+
+- **Unit:** episode (shared session) · **Attached harness:** claude (attachment metadata) · **Anchor:** `RC-LANE-01`
+- **Observed sequence:** the instrument's research lane — the mechanism
+  that turns an actor's typed knowledge gaps into commissioned research —
+  had been quietly capped by its own backpressure: after minimal traffic
+  even knowledge-base reference answers were silenced, so an
+  owner-designed brain-backed writing program produced **no brain
+  activity at all** and the owner discovered the cause only by tracing
+  it, recording the frustration in-session. The daily cap was retired
+  (an in-flight bound remains), misses now SPEAK exactly once with a
+  typed two-part remedy, and three containments landed: staleness
+  terminates rather than skips, settlement is gated on the knowledge
+  card's own answer state through the lint's single parser, and answer
+  lineage and requester lane survive every projection and cross-brain
+  merge.
+- **Recovery state:** the restored lane's first live act commissioned
+  the exact need the silenced lane had swallowed.
+- **Supports:** the page's clearest apparatus-harm specimen after the
+  cohort's burden case — a politeness mechanism defeating the
+  instrument's primary purpose while every dashboard stayed green; owner
+  intervention retained verbatim as part of the episode.
+- **Does not support:** any claim about how long the silence cost — the
+  suppressed-demand counterfactual is unavailable by construction.
+
+### RC-03 — the stale-figure class
+
+- **Unit:** correction class (five–six instances across the arc's deliveries) · **Anchor:** `RC-FIGURE-01`
+- **Observed sequence:** commit messages and review comments repeatedly
+  carried gate or lane figures composed BEFORE the commit that changed
+  the tree they measured — five to six retained instances in one arc,
+  including a "nothing to judge" claim handed to a review gate whose
+  measured value at head was eleven warnings, and a compression figure
+  first published as store-level that was a single-row measurement
+  (corrected append-only: ~22.4% at log level on the current-shape
+  population, which is 6.9% of a store that is 92.8% legacy). The
+  structural cure adopted: commit messages carry NO figures; evidence
+  lives where it is measured AT the pushed head and reproducible against
+  the same ref.
+- **Supports:** a named failure shape (a number that outlives the tree
+  it measured) and a structural cure over vigilance.
+- **Does not support:** that the cure eliminates the class — it removes
+  one surface the class had.
+
+### RC-04 — focused-testing adoption, and the entry that fired on its author
+
+- **Unit:** episode (shared session) · **Attached harness:** claude (attachment metadata) · **Anchor:** `RC-TEST-01`
+- **Observed sequence:** after the owner's repeated redirect against
+  habitual full-suite runs (the same intervention class retained on
+  `CX-REPAIR-01`), the landing form changed: an author gates on the
+  affected lanes selected from the working tree and branch diff, and the
+  round's ONE full run belongs to the independent skeptic seat — two
+  slow lanes (about 65% of suite wall-clock) became a declared deferred
+  tier that prints itself. A live pre-action reminder now fires on
+  broad-population commands; in its first hours it false-fired on its
+  own author's heredoc and on a reviewer's quoted text, exhausting its
+  own session pause budget — each false fire receipted with the
+  distinguishing predicate it lacked, two of which are now in the entry.
+  The performing session also launched one habitual broad suite AFTER
+  adopting the form, stopped it, and receipted it as the adoption gap's
+  freshest exhibit.
+- **Supports:** owner-intervention-driven process change with the
+  instrument observing its own author; false fires and the author's own
+  relapse recorded with equal standing.
+- **Does not support:** any efficiency or benefit rate — no controlled
+  comparison exists, and the deferred-tier percentage is a wall-clock
+  share, not a value claim.

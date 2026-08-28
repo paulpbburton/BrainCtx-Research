@@ -1,7 +1,7 @@
 # Private evidence anchors
 
 > **Status:** public claim-to-private-custody ledger
-> **As of:** 2026-08-26 (ablation-era rows retained unchanged; current-era rows appended below them)
+> **As of:** 2026-08-28 (ablation-era rows retained unchanged; current-era rows appended below them)
 > **Authority note:** The private record is authoritative; this repository is the legible surface.
 
 This ledger tells a reviewer which private evidence class supports each
@@ -63,6 +63,11 @@ for an authorized reviewer; they are not public evidence by themselves.
 | `CX-REPAIR-01` | CX-05: focused testing, a reproduced post-merge typed-unavailability defect, a focused correction with mutation proof, and the owner's tests-side intervention retained in custody. | two session ledgers, the retained owner intervention turns, and the post-merge correction review | Descriptive case + correction; counterfactual unavailable |
 | `CX-XHOST-01` | CX-06: one live bounded-nudge specimen per host family, compared axis by axis; the evidence under `CORR-04`. | the cross-host witness document and its per-cell locators | Episode pair; n=1 per host; no parity certification |
 | `REVIEW-CORPUS-02` | The extraction receipt behind the failure-mode counts: mechanically verified denominators (172 docs / 144 distinct PRs, seat split, boundary dates), the distillation procedure with its stated non-reproducibility, and the quantified unmined populations. | the frozen extraction receipt and the retained table, both hash-pinned in the session ledger at freeze | Methods receipt; counts remain approximate by its own contract |
+
+| `RC-STORE-01` | RC-01: the observation store's write-shape compression, sealed segment rotation, verify-then-release migration, and the witnessed live recovery (26,545,740,033-byte first segment; home filesystem 41 GB → 66 GB free); linkage-not-bytes coverage limit and one crash window carried open. | the two merged increment PRs with their review rounds, the session ledger's rotation/migration decision and enactment anchors (retained hash), and the service refresh log rows | Descriptive recovery episode; no durability or corruption-detection assurance |
+| `RC-LANE-01` | RC-02: the research lane silenced by its own backpressure cap, the owner's retained discovery and frustration turns, the cap retirement with speaking misses and three settlement containments, and the restored lane's first live commission. | the owner's retained in-session turns, the two merged restoration PRs with review rounds, and the lane's typed emission record before/after | Apparatus-harm case + repair; suppressed-demand counterfactual unavailable |
+| `RC-FIGURE-01` | RC-03: five–six retained instances of figures composed before the tree they measured changed, including the corrected store-level/single-row compression claim; the numberless-commit structural cure adopted. | the append-only correction anchors in the session ledger, the affected commit/comment texts, and the adopted rule's committed surface | Named correction class; cure removes one surface, not the class |
+| `RC-TEST-01` | RC-04: the focused-landing-form adoption after repeated owner redirect, the declared deferred slow tier (~65% wall-clock share), the pre-action broad-population reminder's early false fires receipted with their missing predicates, and the author's own post-adoption broad-suite relapse, stopped and receipted. | the retained owner redirect turns, the adoption PR pair with review rounds, the reminder's fire/receipt rows, and the stopped-run receipt | Descriptive process-change episode; no efficiency or benefit rate |
 
 ## Verification rule
 

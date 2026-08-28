@@ -1,7 +1,7 @@
 # Finding — nulls and corrections, with equal standing
 
 > **Authority note:** The private record is authoritative; this repository is the legible surface.
-> **Status:** the honesty record · **As of:** 2026-08-26 · Force and
+> **Status:** the honesty record · **As of:** 2026-08-28 · Force and
 > ceilings: [../STATUS_AND_CLAIMS.md](../STATUS_AND_CLAIMS.md) governs.
 
 The readout corpus — including what did not work and what had to be
@@ -46,11 +46,26 @@ zero-voluntary-asks demonstration) stand in the
   review, and the document now records that its verification stamp had
   covered them falsely — the stamp was replaced with the actual reading
   basis. (Anchor: `CORR-03`)
+- **The stale-figure class, named.** Five to six retained instances in
+  one arc of figures composed before the commit that changed the tree
+  they measured — including a compression figure first published as
+  store-level that was a single-row measurement, corrected append-only
+  to its honest population share. The cure adopted is structural
+  (figures banned from commit messages; evidence measured at the pushed
+  head), not vigilance. (Anchor: `RC-FIGURE-01`)
 - **A review verdict token outside the contract.** A dispatched reviewer
   was offered a trajectory token the review contract does not permit; the
   mechanical gate blocked, and the reviewer itself restated its judgment
   in the permitted vocabulary as an append-only correction — reviewer
   independence preserved through the fix. (Anchor: `REVIEW-01`)
+
+- **A lane silenced by its own backpressure.** The research lane's
+  daily cap silenced even knowledge-base reference answers after minimal
+  traffic, so a brain-backed program the operator designed produced no
+  brain activity and every dashboard stayed green — the quiet-failure
+  shape at its purest. Retired, with misses now typed and speaking, and
+  the operator's discovery turns retained as part of the record.
+  (Anchor: `RC-LANE-01`)
 
 - **Natural-work cases carrying their own adversity** (see the
   [case ledger](NATURAL_CODING_WORK_SPECIMENS.md)): the burden case where
