@@ -6,6 +6,18 @@
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
 
+## 2026-08-28 — Live verification on the restored research lane
+
+- The `RC-LANE-01` card gains a dated same-day addendum read from the
+  running service's own stores: eleven error-free rounds under the
+  restored lane, ten distinct-need misses each speaking exactly once and
+  witnessed in the requesters' ledgers, morning research-genre needs
+  delivered as cards, and one evening need answered from the knowledge
+  base by a page ingested from that morning's delivered research — the
+  designed loop closed once, observed end to end, published as a
+  liveness verification with its ceiling stated (no benefit, quality,
+  or durability claim).
+
 ## 2026-08-28 — The recovery arc (post-release increment 2)
 
 - findings/NATURAL_CODING_WORK_SPECIMENS.md gains a four-case

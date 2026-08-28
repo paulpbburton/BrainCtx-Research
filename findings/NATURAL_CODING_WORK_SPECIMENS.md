@@ -323,6 +323,27 @@ instruments emitted five to six times.
   intervention retained verbatim as part of the episode.
 - **Does not support:** any claim about how long the silence cost — the
   suppressed-demand counterfactual is unavailable by construction.
+- **Live verification (dated addendum, 2026-08-28, read from the running
+  service's own stores the same day):** in the restored lane's first
+  hours the same writing program drove eleven service rounds with zero
+  errors and zero cap skips of any kind. Ten knowledge-base misses on
+  ten DISTINCT typed needs each produced exactly one miss note — the
+  once-per-need bound held, no repeats — delivered into the requesting
+  session's own queue, where the actor's ledger shows them witnessed and
+  receipted. A batch of research-genre needs was commissioned and
+  delivered as cards that morning; by evening a LATER need came back
+  answered from the knowledge base by a page ingested from that
+  morning's delivered research — the loop the instrument exists for,
+  closed once, observed end to end. The requesting actors also exercised
+  judgment against the lane rather than consuming it: one retained
+  receipt rejects a weak knowledge-base match extractively ("topical
+  overlap ... not an answer to the corrected need"), and the lane's own
+  retired cap was audited by a typed need asking what retained owner
+  decision had ever authorized it. Malformed foreign rows were skipped
+  with a typed reason, visible on every round. **Ceiling:** one day, one
+  program, one closed loop — a liveness verification that the unmuzzled
+  mechanism performs its designed sequence, not a benefit, quality, or
+  durability claim.
 
 ### RC-03 — the stale-figure class
 
