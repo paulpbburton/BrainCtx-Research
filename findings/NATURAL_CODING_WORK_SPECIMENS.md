@@ -387,3 +387,45 @@ instruments emitted five to six times.
 - **Does not support:** any efficiency or benefit rate — no controlled
   comparison exists, and the deferred-tier percentage is a wall-clock
   share, not a value claim.
+
+### RC-05 — the restored lane in use: one service day, measured
+
+- **Unit:** one service day (2026-08-28) of the live research mechanism · **Attached harness:** claude (attachment metadata) · **Anchor:** `RC-USE-01`
+- **Writing basis:** same as this section — the performing session, from
+  the running service's own append-only stores, same day; every count
+  below is a store aggregate an authorized reviewer can re-derive.
+- **The day's traffic:** 199 distinct typed needs entered the lane. 104
+  returned delivered evidence cards from bounded research seats; 67 were
+  answered from the knowledge base WITHOUT spawning a seat — and 57 of
+  those 67 (85%) were answered by pages the lane itself had ingested
+  from earlier delivered research. That is the designed flywheel closing
+  at scale on its first unmuzzled day: yesterday's commissions answering
+  today's questions at zero marginal research cost. 25 misses each spoke
+  exactly once with the typed remedy; one undeliverable answer was
+  refused with a typed reason rather than silently dropped.
+- **The honest denominator, with equal standing:** 131 of the 199 needs
+  (66%) were the instrument's OWN recursion — a machine-filed followup
+  runaway, a same-day defect of the restored lane (issue-tracked
+  privately) — so two-thirds of the day's seat capacity was
+  self-generated until the terminal-states containment landed that same
+  evening. The containment's effect is measured on the harvest log:
+  before it, 236 followup candidates auto-filed 184 (78%); after it, 69
+  candidates filed 14 (20%), with 55 retained under typed reasons —
+  including the first cards whose AUTHORS declared their own remainders
+  terminal, and the first bound-stopped generations. The desired case
+  survived: genuinely researchable follow-ups still file.
+- **Same-evening decision use:** two operator-filed commercially
+  decision-bearing needs (an external payment-program status; a
+  service-pricing comparison) returned cited, ceiling-stating evidence
+  cards within hours of filing — one delivered unprompted into the
+  requesting session while that session was mid-task, read, receipted,
+  and adopted into a dated commercial decision rule the same night.
+- **Supports:** the mechanism performing its designed sequence under
+  real, mixed, adversarial-to-itself load — flywheel closure measured,
+  containment measured before/after on the same day, and a live path
+  from a typed need to a commercial decision.
+- **Does not support:** any benefit, quality, or cost-effectiveness
+  rate — one day, one operator, no counterfactual; the 85% flywheel
+  share is dominated by one program's related needs; and the day's
+  largest traffic class was the instrument's own defect, which is a
+  finding about supervision cost, not a usage endorsement.

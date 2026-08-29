@@ -6,6 +6,17 @@
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
 
+## 2026-08-28 — One measured service day on the restored lane (RC-05)
+
+- The recovery-arc section gains `RC-USE-01`: a store-derived evaluation
+  of the restored research lane's first full unmuzzled day — 199 needs,
+  104 delivered cards, 85% of knowledge-base answers sourced from the
+  lane's own prior research (the flywheel closing at scale), misses
+  speaking once — published beside its honest denominator: two-thirds of
+  the day's volume was the instrument's own followup recursion, measured,
+  contained the same evening, and reported with equal standing. Ceiling
+  stated: one day, one operator, liveness and use, no benefit rate.
+
 ## 2026-08-28 — Live verification on the restored research lane
 
 - The `RC-LANE-01` card gains a dated same-day addendum read from the
