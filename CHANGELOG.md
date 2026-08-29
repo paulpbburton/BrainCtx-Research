@@ -6,6 +6,25 @@
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
 
+## 2026-08-29 — Natural writing opened; second arm-and-observe period
+
+- findings/NATURAL_WRITING_WORK.md opens the second observed workload
+  class: research-lane-guarded writing — the guarded loop as designed
+  and observed, four first specimens (the workload commissioning its own
+  fabrication guard; a day of guarded self-audit; an extractive
+  rejection of the instrument's weak answer; the already-public
+  silenced-lane failure mode), and the binding ceiling that loop
+  effectiveness in shipped prose is unmeasured. (`NW-GUARD-01`,
+  `NW-LOOP-01`)
+- findings/ARM_AND_OBSERVE.md gains a second measured period: the week
+  the suite's strongest instrument was the paired review harness (five
+  enumerated, measured catches on the mechanism's own changes — two
+  found by re-measuring live stores), receipted reminder splits, the
+  decision-ordering entry's recurrent stale-index false-fire class
+  carried openly, and the pause-once population's 100% receipted
+  proceed rate with the tuning conclusion it argues for.
+  (`FLYWHEEL-02`)
+
 ## 2026-08-28 — One measured service day on the restored lane (RC-05)
 
 - The recovery-arc section gains `RC-USE-01`: a store-derived evaluation
