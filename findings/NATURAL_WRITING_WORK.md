@@ -76,3 +76,53 @@ fabrication-rate, or benefit claim follows. Artifact utility never
 implies demand for the artifact. The loop's effectiveness at preventing
 unsupported claims in shipped prose is UNMEASURED — what exists today
 is the mechanism observed operating and one day's guarded traffic.
+
+## A guarded research day, measured (2026-08-30)
+
+One day of the guarded loop running a live commercial research campaign
+for the writing program — published here as MECHANISM evidence, with
+the workload's subject redacted to roles (a marketplace review corpus,
+community platforms, a trip-planning tool; specific niches, platforms,
+and destinations are retained privately). Eleven evidence cards and
+their machine-filed follow-ups, within the bounded-recursion contract,
+in under six hours. What the day evidences (anchor: `NW-MINE-01`):
+
+- **Method frozen before data, by the seats themselves.** The campaign's
+  pilot card wrote a method-precommit file — row unit, class
+  vocabulary, counting rules — BEFORE its first retrieval, and every
+  later card in the campaign read that file before coding. Class
+  promotions into the shared vocabulary were decided by the
+  precommitted recurrence rule (n ≥ 2 after exact-text deduplication),
+  including one promotion carrying its own duplication caveat
+  (3 records / 2 distinct texts, one seller family only).
+- **Denominators carried, apertures declared.** Cards reported
+  rendered-versus-displayed boundaries per page (17 of 77 exposed;
+  5 of 16; 24 of 35) instead of claiming closure over unobserved
+  populations; one card's declared 100-item windows returned platform
+  block pages, and the card shipped as UNAVAILABLE with denominators
+  0-of-100 and 0-of-100 — a refused measurement retained with equal
+  standing, not a substituted aperture.
+- **The lane audited itself, twice over.** A follow-up card came back
+  CONTRADICTED against its own parent's hypothesis — in the direction
+  that RESTORED a written-off corpus to the campaign. Another follow-up
+  qualified an endpoint its parent had just found, establishing that no
+  official contract documents it — so the count surface entered use
+  with an undocumented-endpoint caveat bound to it, two generations of
+  machine-filed self-audit deep.
+- **Honest negatives retained.** A hypothesized sales-surface phrase
+  was reported NOT OBSERVED on any tractionful product, with the
+  visible equivalent wording recorded instead; two candidate workaround
+  classes scored zero in one corpus and were declared absent only
+  within that denominator — then appeared, counted, on the next
+  platform.
+- **The operator's judgment stayed in the loop.** Between cards, the
+  operator's own syntheses (a product-shape ruling; an emotional-core
+  articulation) were folded into the project brain as owner directions,
+  and the next cards were read against them — the loop's human half,
+  retained verbatim like everything else.
+
+**Ceiling.** One campaign, one day, one operator; mechanism liveness
+and honesty behaviors observed under real commercial motivation — no
+research-quality, coverage, or business-outcome claim. The campaign's
+substantive findings live in the private project brain; this page
+carries only how the instrument behaved while producing them.

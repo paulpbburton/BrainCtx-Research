@@ -6,6 +6,19 @@
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
 
+## 2026-08-30 — A guarded research day on the writing workload
+
+- findings/NATURAL_WRITING_WORK.md gains its first measured section
+  beyond the opening specimens: one day of the guarded loop running a
+  live commercial research campaign, published as mechanism evidence
+  with the subject redacted to roles — seat-frozen precommit methods,
+  declared apertures, refused measurements shipped as UNAVAILABLE with
+  zero-of-N denominators, machine-filed self-audits two generations
+  deep, precommitted vocabulary promotion, honest negatives, and the
+  operator's verbatim rulings folded mid-loop. Ceiling: mechanism
+  liveness and honesty behaviors, no quality or outcome claim.
+  (`NW-MINE-01`)
+
 ## 2026-08-29 — Natural writing opened; second arm-and-observe period
 
 - findings/NATURAL_WRITING_WORK.md opens the second observed workload
