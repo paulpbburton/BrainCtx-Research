@@ -1,7 +1,7 @@
 # Finding — arm and observe: the tuning flywheel
 
 > **Authority note:** The private record is authoritative; this repository is the legible surface.
-> **Status:** descriptive finding · **As of:** 2026-08-29 · Force and
+> **Status:** descriptive finding · **As of:** 2026-08-31 · Force and
 > ceilings: [../STATUS_AND_CLAIMS.md](../STATUS_AND_CLAIMS.md) governs.
 
 The operator's ruling that created this practice: *start arming a pattern
@@ -98,6 +98,64 @@ population; dispositions are declared by the supervised actor itself
 (the honesty instrument here is the typed vocabulary and the retained
 ledger, not independent adjudication); review-harness catches are
 enumerated, not sampled; and no counterfactual exists for any of it.
+
+## A third measured period (fleet-wide pass, 2026-08-30 → 08-31)
+
+The first period measured one predicate family; the second, one
+orchestrating session's ledger. This pass is the first fleet-wide
+window: roughly thirty hours of natural workload, measured from every
+session ledger the supervisor touched, extracted by delegated read-only
+sweeps and re-produced by the publishing session's own independent runs
+before release. (Anchor: `FLYWHEEL-03`)
+
+**Steady state.** The hub ran the whole window on a single process more
+than five days old — zero restarts, an empty service journal, roughly
+3,200 heartbeats at held cadence, and no new failure instances filed.
+The only error stream was a single armed pattern's durable-evaluation
+conflict re-emitted every tick (~19,000 times) — one known defect
+carried openly; the volume argues a one-time cleanup of its conflicting
+rows rather than any predicate change.
+
+**The receipt population.** 207 typed handling receipts across 30
+distinct session ledgers — the receipt vocabulary is now fleet
+behavior, not one session's discipline. Dispositions: 121 used, 45
+partially used, 30 rejected with reason, 11 others (deferred,
+hand-raise, remaining-gap, and a few blocks that mixed need vocabulary
+into receipt form — recorded as found). Actor-adjudicated correctness:
+129 correct, 43 partly correct, 19 incorrect, 11 undecidable in the
+actor's aperture. One in five nudges reasoned from a window missing
+evidence of what the actor had actually done — typed separately from
+correctness exactly so a capture defect cannot be misread as the
+review being wrong. Effect: 74 changed the work, 74 confirmed
+something already known, 34 provoked a check (19 of which found
+something), 20 reported no effect or nothing to do; a handful of
+blocks omit a typed line and stand as written.
+
+**This period's false-fire shape.** Dominant among the thirty
+rejections: the supervisor asserting an absence that the window's own
+compound command already disproved — probes and their outputs living
+inside multi-part shell calls the join did not look inside. The first
+period's shape was harness notifications read as operator messages;
+the second's, a stale index; this one is the compound-command
+aperture. Two lesser shapes: cards delivered against a different
+requester's need, and anchor-ordering alarms on commits that were in
+fact anchored. Each rejection carries its distinguishing predicate in
+the receipt.
+
+**Guards, pauses, and the research lane.** 90 guard reminders
+(anchor-before-world-contact and overwrite-without-reading at 30 each
+— two-thirds of the total), 41 single-shot pre-action pauses, most
+claimed. The research lane ran 130 ticks: 81 fresh commissions, 80
+delivered and ingested cards, 15 knowledge-base answers, 37 filed miss
+notes, zero delivery refusals, one seat-spawn failure retained with
+its cursor for retry.
+
+**Ceilings for this pass.** One ~thirty-hour window under one
+operator's fleet; dispositions and correctness are declared by the
+supervised actors themselves; whether each miss note spoke exactly
+once is not verifiable from the tick counters alone; heartbeat and
+receipt figures are live counters read at stated times; no benefit
+rate and no counterfactual. (Anchor: `FLYWHEEL-03`)
 
 Selected natural-work episodes and sessions — including the adverse and
 burden cases — are carded in the

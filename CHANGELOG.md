@@ -6,6 +6,22 @@
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
 
+## 2026-08-31 — Third measured period: the flywheel goes fleet-wide
+
+- findings/ARM_AND_OBSERVE.md gains a third measured period, the first
+  fleet-wide one: a ~30-hour window measured from every session ledger
+  the supervisor touched — 207 typed handling receipts across 30
+  sessions with full disposition, correctness, basis, and effect
+  splits; the hub's steady state (five-day process, zero restarts,
+  empty journal) beside its one openly carried error stream; 90 guard
+  reminders and 41 pre-action pauses; the research lane's 81
+  commissions and 80 delivered cards; and this period's dominant
+  false-fire shape, the compound-command aperture. Every published
+  number was extracted by delegated read-only sweeps and re-produced
+  by the publishing session before release. Ceilings: one window, one
+  operator's fleet, actor-declared dispositions, no benefit rate.
+  (`FLYWHEEL-03`)
+
 ## 2026-08-30 — A guarded research day on the writing workload
 
 - findings/NATURAL_WRITING_WORK.md gains its first measured section
