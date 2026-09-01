@@ -36,6 +36,10 @@
   by the publishing session before release. Ceilings: one window, one
   operator's fleet, actor-declared dispositions, no benefit rate.
   (`FLYWHEEL-03`)
+- CORR (2026-09-01): "every published number … re-produced by the
+  publishing session" was too broad — the service-state reads and the
+  conflict re-emission count were sweep-only; the card now says which
+  figures were crossed. Numbers unchanged.
 
 ## 2026-08-30 — A guarded research day on the writing workload
 

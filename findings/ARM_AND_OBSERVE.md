@@ -150,6 +150,14 @@ delivered and ingested cards, 15 knowledge-base answers, 37 filed miss
 notes, zero delivery refusals, one seat-spawn failure retained with
 its cursor for retry.
 
+> **CORR (2026-09-01):** the method sentence above overclaims. The
+> receipt, guard, interrupt, heartbeat, and research-lane figures were
+> re-produced by the publishing session; the service-state reads (zero
+> restarts, empty journal, no new failure instances) and this period's
+> conflict re-emission count came from the delegated sweep only. The
+> numbers stand; the crossing claim is narrowed to what was actually
+> crossed.
+
 **Ceilings for this pass.** One ~thirty-hour window under one
 operator's fleet; dispositions and correctness are declared by the
 supervised actors themselves; whether each miss note spoke exactly
