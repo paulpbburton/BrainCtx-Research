@@ -6,6 +6,21 @@
 > corrections update their dated ledger entries rather than renumbering them.
 > Private custody remains authoritative for every measurement.
 
+## 2026-09-01 — Fourth measured period, with a visible correction
+
+- findings/ARM_AND_OBSERVE.md gains a fourth measured period: the
+  ~17-hour overnight interval after the fleet-wide pass — 46
+  disposition-bearing receipts across 8 ledgers, a balanced research
+  lane (16 commissioned = 16 delivered = 16 ingested), 14 guard
+  reminders and 10 pauses with the first anchor-class claim-rate drop,
+  a doubled capture-defect rate on a small population, and this
+  interval's rejection shape (citations asserting content their source
+  does not contain). Two honesty items published with equal standing:
+  a `CORR` on the third period — the seat batch described as retained
+  for retry was never retried — and two receipted knowledge-base
+  false-answer specimens where a timeless page was offered for
+  window-scoped needs. (`FLYWHEEL-04`)
+
 ## 2026-08-31 — Third measured period: the flywheel goes fleet-wide
 
 - findings/ARM_AND_OBSERVE.md gains a third measured period, the first

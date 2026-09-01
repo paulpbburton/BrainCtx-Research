@@ -1,7 +1,7 @@
 # Finding — arm and observe: the tuning flywheel
 
 > **Authority note:** The private record is authoritative; this repository is the legible surface.
-> **Status:** descriptive finding · **As of:** 2026-08-31 · Force and
+> **Status:** descriptive finding · **As of:** 2026-09-01 · Force and
 > ceilings: [../STATUS_AND_CLAIMS.md](../STATUS_AND_CLAIMS.md) governs.
 
 The operator's ruling that created this practice: *start arming a pattern
@@ -156,6 +156,55 @@ supervised actors themselves; whether each miss note spoke exactly
 once is not verifiable from the tick counters alone; heartbeat and
 receipt figures are live counters read at stated times; no benefit
 rate and no counterfactual. (Anchor: `FLYWHEEL-03`)
+
+## A fourth measured period (overnight interval, 2026-08-31 → 09-01)
+
+A ~17-hour follow-on interval, measured the same way — delegated
+read-only sweeps plus the publishing session's crossed re-runs. Where
+the two independent extractors' parse boundaries disagreed (one to two
+receipt blocks, a timestamp-normalization edge), the difference is
+disclosed rather than averaged; the publishing session's run is the one
+printed. (Anchor: `FLYWHEEL-04`)
+
+**Steady state, and a correction.** Six days on one hub process, an
+empty journal, ~1,820 heartbeats. The single durable-evaluation
+conflict kept emitting (~10,900 more re-emissions at ~650/hour) — the
+cleanup is now owed, not merely argued. And a visible correction to the
+third period: the seat-spawn failure described there as "retained with
+its cursor for retry" was never retried — the interval shows no retry
+event for that batch, only fresh batches succeeding around it (18 of
+18 spawned and verified). The cursor-retention half of the claim stood;
+the implied retry did not happen. (`CORR` on `FLYWHEEL-03`)
+
+**The lane ran balanced.** 33 research ticks: 16 commissioned, 16
+delivered, 16 ingested — nothing stranded; 8 knowledge-base answers, 2
+miss notes, zero refusals. One receipted counter-specimen from the
+publishing sessions themselves: on two consecutive days, a
+window-scoped measurement need was offered the same timeless
+program-summary page as a knowledge-base answer. A page whose as-of
+predates the window's start can never settle a question about that
+window; the distinguishing predicate is receipted for the tuning loop.
+
+**The receipt population.** 46 disposition-bearing receipts across 8
+session ledgers (45 typed, 1 malformed block recorded as found): 18
+used, 18 partially used, 8 rejected with reason, 1 accountable
+declination. Correctness: 19 correct, 16 partly, 9 incorrect, 1
+undecidable. Basis: 19 of 45 reasoned from a window missing the
+actor's actual work — roughly double the third period's one-in-five
+capture-defect rate, on a much smaller population. Effect: 19 changed
+the work, 14 confirmed something known, 10 provoked checks (4 found
+something). This interval's rejection shape:
+citation-does-not-contain-the-claimed-content — a nudge asserting a
+cited section says something it does not.
+
+**Guards.** 14 reminders (anchor-before-world-contact 9) and 10
+pre-action pauses; 5 of the 9 anchor-class interrupts went unclaimed —
+the first period-over-period claim-rate drop, flagged for watching.
+
+**Ceilings.** A ~17-hour overnight interval with small populations;
+actor-declared dispositions; extractor parse sensitivity disclosed
+above; live counters read at stated times; no benefit rate, no
+counterfactual. (Anchor: `FLYWHEEL-04`)
 
 Selected natural-work episodes and sessions — including the adverse and
 burden cases — are carded in the
